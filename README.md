@@ -20,7 +20,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * CriminoScope : un logiciel d'analyse socio-géographique des crimes et délits
 * Gallicagram
 * Seastats+ : un projet d'accidentologie prédictive en mer
-* La représentation graphique des index pour les ouvrages historiques
+* [La représentation graphique des index pour les ouvrages historiques](https://github.com/benjyazoulay/index-timeline)
 * Proustographies : à la recherche de Marcel Proust, un portrait numérique
 * Gallicanet : un réseau social du passé fondé sur l'analyse automatique de la proximité d'énonciation des entités nommées dans les corpus d'archives numérisées
 
