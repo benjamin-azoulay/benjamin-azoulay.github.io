@@ -97,6 +97,11 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * Elise Meyer, La mémoire de la bataille de Valmy, de 1792 à nos jours, thèse de doctorat dirigée par Philippe Buton, Université de Reims Champagne-Ardenne, 2022, <https://www.theses.fr/s147190>
 * François Jacquesson, « L’auto et le vélo », Caramel, Sciences du langage et monde contemporain, 7 décembre 2022, <https://caramel.hypotheses.org/24021>
 * François Jacquesson, « Le bel aujourd’hui », Caramel, Sciences du langage et monde contemporain, 30 décembre 2022, <https://caramel.hypotheses.org/25103>
+* François Jacquesson, « Ciels ! », Caramel, Sciences du langage et monde contemporain, 13 juin 2023, <https://caramel.hypotheses.org/31634>
+* François Jacquesson, « Connaissez-vous le code ? », Caramel, Sciences du langage et monde contemporain, 18 juin 2023, <https://caramel.hypotheses.org/31984>
+* François Jacquesson, « Euthanasie », Caramel, Sciences du langage et monde contemporain, 4 juillet 2023, <https://caramel.hypotheses.org/32701>
+* François Jacquesson, « Place de l’Utopie, allez tout droit ! », Caramel, Sciences du langage et monde contemporain, 15 juillet 2023, <https://caramel.hypotheses.org/33066>
+* François Jacquesson, « L’espion pris dans la guerre », Caramel, Sciences du langage et monde contemporain, 10 août 2023, <https://caramel.hypotheses.org/34168>
 * Madeleine Leroy. « „Bäder bauen heißt Spitäler sparen“. Piscines et bains-douches publics de « Vienne la rouge » (1919-1934) comme éléments d’une politique urbaine d’hygiène sociale », 2021, <https://dumas.ccsd.cnrs.fr/dumas-03416702>
 * Erwan Le Gall, « A propos de l’antimilitarisme des Sârs et de la rougeole politique (1913) », Ar Brezel, 5 janvier 2022, <https://arbrezel.hypotheses.org/4804>
 * Erwan Le Gall, « Février 1918 : l’estuaire de la Loire au bord de la Révolution ? », Ar Brezel, 2 février 2022, <https://arbrezel.hypotheses.org/4963>
