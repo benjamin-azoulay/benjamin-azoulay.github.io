@@ -1,5 +1,5 @@
 # Benjamin Azoulay
-**Administrateur des affaires maritimes | Historien Data scientist**
+**Administrateur des affaires maritimes | Historien | Data scientist**
 
 Historien nouvelle génération, j’ai écrit une biographie d’Abel Bonnard publiée aux éditions Perrin et développé le logiciel de lexicométrie Gallicagram avec Benoît de Courson.
 
