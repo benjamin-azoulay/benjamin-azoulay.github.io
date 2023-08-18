@@ -51,7 +51,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * [« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181](https://www.revuedesdeuxmondes.fr/revue/nietzsche-en-france/)
 
 
-###Internet
+### Internet
 
 * [« Abel Bonnard, soleil noir de la France de Vichy », Hocine Bouhadjera, ActuaLitté, 26 décembre 2022](https://actualitte.com/article/109301/avant-parutions/abel-bonnard-soleil-noir-de-la-france-de-vichy)
 * [« Pages d’histoire - Ép. 11 - Abel Bonnard, vie et mort d’un poète reconverti en ministre nazi », Sylvain Boulouque, Slate, 11 février 2023](https://www.slate.fr/culture/pages-dhistoire/episode-11-collaboration-nazi-fascisme-livres-ils-l-appelaient-monsieur-hitler-bourseiller-abel-bonnard-azoulay-au-service-marechal-anglaert-propaganda-thiebot)
