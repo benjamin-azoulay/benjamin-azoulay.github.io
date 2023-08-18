@@ -131,7 +131,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * Présentation de l’outil de lexicométrie Gallicagram, ADEMEC - Ecole des Chartes, 23 janvier 2023 : <https://www.eventbrite.fr/e/billets-atelier-n4-presentation-de-loutil-de-lexicometrie-gallicagram-505923700407>
 * Séminaire MédiaLab - SciencesPo, 28 février 2023
 * Séminaire IMAREV, Gallicagram : impressions de la Révolution - Université Paris Cité, 24 mars 2023 : <https://imarev.hypotheses.org/366>
-* Séminaire ISOCO Indices d’opinion sociaux économiques - Université Paris Nanterre, 6 juillet
+* Séminaire ISOCO Indices d’opinion sociaux économiques - Université Paris Nanterre, 6 juillet : <https://calenda.org/1052826>
 
 
 ### Projets fondés sur Gallicagram
