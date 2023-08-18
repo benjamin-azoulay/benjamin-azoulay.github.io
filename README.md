@@ -95,6 +95,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * Alexandre Grit, « Gallicagram : un outil pour comprendre les enjeux d’opinion à propos de la soutenabilité budgétaire ? », Mémoire de master, Ecole normale supérieure Paris-Saclay, 2022, <https://hal.archives-ouvertes.fr/hal-03845936>
 * Benjamin Azoulay, Abel Bonnard, Plume de la Collaboration, Perrin, Paris, 2023, 384p., <https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376>
 * Elise Meyer, La mémoire de la bataille de Valmy, de 1792 à nos jours, thèse de doctorat dirigée par Philippe Buton, Université de Reims Champagne-Ardenne, 2022, <https://www.theses.fr/s147190>
+* Pearl Pandya, Armin Pournaki, Jean-Philippe Cointet, "What’s the news on Muslims in India?", juillet 2023, <https://pearlpandya.com/public/np_poster_web.pdf>
 * François Jacquesson, « L’auto et le vélo », Caramel, Sciences du langage et monde contemporain, 7 décembre 2022, <https://caramel.hypotheses.org/24021>
 * François Jacquesson, « Le bel aujourd’hui », Caramel, Sciences du langage et monde contemporain, 30 décembre 2022, <https://caramel.hypotheses.org/25103>
 * François Jacquesson, « Ciels ! », Caramel, Sciences du langage et monde contemporain, 13 juin 2023, <https://caramel.hypotheses.org/31634>
