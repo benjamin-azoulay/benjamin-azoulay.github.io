@@ -4,7 +4,7 @@
 Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard publiée aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html) et développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io).
 
 
- ## Articles de recherche
+## Articles de recherche
 
 * [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://journals.openedition.org/corpus/7944)
 * [Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021](https://osf.io/84bf3/)
@@ -12,7 +12,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 ## Articles en ligne
 
-* « Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023
+* [« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023](https://proustonomics.com/entretien-avec-benjamin-azoulay/)
 
 
 
@@ -30,14 +30,14 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 ### Recension
 
-* « Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472
+* [« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472](https://www.cairn.info/revue-critique-2023-5-page-458.htm)
 
 ### Presse
 
-* « L’histoire d’un “bon à rien” », Denis Lefebvre, Historia, janvier 2023, p. 83
+* [« L’histoire d’un “bon à rien” », Denis Lefebvre, Historia, janvier 2023, p. 83](https://www.historia.fr/biographies-historiques/lhistoire-dun-%C2%AB-bon-%C3%A0-rien-%C2%BB)
 * « Vient de paraître : “Abel Bonnard, Plume de la Collaboration” par Benjamin Azoulay », Bulletin Quotidien, 12 janvier 2023
-* « Un proustien chez Shakespeare », Etienne de Montety, Le Figaro littéraire, 18 janvier 2023, p. 1
-* « Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L’Opinion, 25 janvier 2023, p. 8
+* [« Un proustien chez Shakespeare », Etienne de Montety, Le Figaro littéraire, 18 janvier 2023, p. 1](https://www.lefigaro.fr/livres/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-un-proustien-chez-shakespeare-20230118)
+* [« Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L’Opinion, 25 janvier 2023, p. 8](https://www.lopinion.fr/o2-week-end/abel-bonnard-du-symbolisme-au-fascisme-la-critique-de-bernard-quiriny)
 * « Un poète engagé sur la mauvaise voie », Philippe Maxence, Le Figaro Magazine, 3 février 2023, p. 86
 * « Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54
 * « Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6
