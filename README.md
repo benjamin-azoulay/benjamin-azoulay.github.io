@@ -1,13 +1,13 @@
 # Benjamin Azoulay
 **Administrateur des affaires maritimes | Historien | Data scientist**
 
-Historien nouvelle génération, j’ai écrit une biographie d’Abel Bonnard publiée aux éditions Perrin et développé le logiciel de lexicométrie Gallicagram avec Benoît de Courson.
+Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard publiée aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html) et développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io).
 
 
  ## Articles de recherche
 
-* Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023
-* Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021
+* [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://journals.openedition.org/corpus/7944)
+* [Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021](https://osf.io/84bf3/)
 
 
 ## Articles en ligne
