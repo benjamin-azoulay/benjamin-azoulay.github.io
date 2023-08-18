@@ -7,6 +7,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 * [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://journals.openedition.org/corpus/7944)
 * [Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021](https://osf.io/84bf3/)
+* [Benjamin Azoulay, Benoît de Courson et Will Gleason, « Compter les mots pour remonter le temps : Gallicagram et Gallicagrapher, deux outils d’exploration des archives numérisées de la BnF », Culture et Recherche, n°144, printemps-été 2023, p. 82](https://u-picardie.hal.science/public/Culture_et_Recherche_144_La_science_ouverte.pdf)
 
 
 ## Articles en ligne
