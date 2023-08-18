@@ -54,27 +54,27 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 ###Internet
 
-* « Abel Bonnard, soleil noir de la France de Vichy », Hocine Bouhadjera, ActuaLitté, 26 décembre 2022
-* « Pages d’histoire - Ép. 11 - Abel Bonnard, vie et mort d’un poète reconverti en ministre nazi », Sylvain Boulouque, Slate, 11 février 2023
-* « Abel Bonnard – Plume de la Collaboration », Joël Drogland, Clionautes, 7 février 2023
-* « Prophète du collaborationnisme », L’Histoire, 15 février 2023
-* « Encre noire », Laurent Pfaadt, Hebdoscope, 22 février 2023
-* « Abel Bonnard, plume de la collaboration - Benjamin Azoulay », Adam Craponne, Grégoire de Tours, 4 février 2023
-* « Abel Bonnard, itinéraire d’un fasciste »,  Sylvain Bonnet, Paris-ci la culture, 4 avril 2023
+* [« Abel Bonnard, soleil noir de la France de Vichy », Hocine Bouhadjera, ActuaLitté, 26 décembre 2022](https://actualitte.com/article/109301/avant-parutions/abel-bonnard-soleil-noir-de-la-france-de-vichy)
+* [« Pages d’histoire - Ép. 11 - Abel Bonnard, vie et mort d’un poète reconverti en ministre nazi », Sylvain Boulouque, Slate, 11 février 2023](https://www.slate.fr/culture/pages-dhistoire/episode-11-collaboration-nazi-fascisme-livres-ils-l-appelaient-monsieur-hitler-bourseiller-abel-bonnard-azoulay-au-service-marechal-anglaert-propaganda-thiebot)
+* [« Abel Bonnard – Plume de la Collaboration », Joël Drogland, Clionautes, 7 février 2023](https://clio-cr.clionautes.org/abel-bonnard-plume-de-la-collaboration.html)
+* [« Prophète du collaborationnisme », L’Histoire, 15 février 2023](https://www.lhistoire.fr/livres/proph%C3%A8te-du-collaborationnisme)
+* [« Encre noire », Laurent Pfaadt, Hebdoscope, 22 février 2023](http://www.hebdoscope.fr/wp/blog/encre-noire/)
+* [« Abel Bonnard, plume de la collaboration - Benjamin Azoulay », Adam Craponne, Grégoire de Tours, 4 février 2023](https://www.gregoiredetours.fr/xxe-siecle/seconde-guerre-mondiale/benjamin-azoulay-abel-bonnard-plume-de-la-collaboration/)
+* [« Abel Bonnard, itinéraire d’un fasciste »,  Sylvain Bonnet, Paris-ci la culture, 4 avril 2023](https://www.pariscilaculture.fr/2023/04/abel-bonnard-itineraire-dun-fasciste/)
 
 
 ### Radio
 
-* « Historiquement vôtre - Ils ont été radiés », Stéphane Bern, Europe 1, 17 janvier 2023
-* « Un jour, une histoire - Qui était Abel Bonnard ? », Louis Daufresne, Radio Notre Dame, 17 janvier 2023
-* « Une heure avec… Benjamin Azoulay», Frédérick Casadeus, Fréquence protestante, 28 janvier 2023
-* « L’Arche de l’histoire - Abel Bonnard », Jean-Baptiste Noé, Radio Espérance, 31 janvier 2023
-* « Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023
+* [« Historiquement vôtre - Ils ont été radiés », Stéphane Bern, Europe 1, 17 janvier 2023](https://www.europe1.fr/emissions/lequipee-sauvage/ils-ont-ete-radies-4161690)
+* [« Un jour, une histoire - Qui était Abel Bonnard ? », Louis Daufresne, Radio Notre Dame, 17 janvier 2023](https://radionotredame.net/emissions/un-jour-une-histoire/17-01-2023/)
+* [« Une heure avec… Benjamin Azoulay», Frédérick Casadeus, Fréquence protestante, 28 janvier 2023](https://podcasts.audiomeans.fr/une-heure-avec--1512b78c3657/benjamin-azoulay-3083109d)
+* [« L’Arche de l’histoire - Abel Bonnard », Jean-Baptiste Noé, Radio Espérance, 31 janvier 2023](https://radio-esperance.fr/antenne-principale/larche-de-lhistoire/)
+* [« Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzVjN2Y4ZTk3MGFkMmQ5ZWY3YTg4NTVkNw/episode/MDI1ZWU2MmJkNmM0NGE5ZmE2MDk0OGMwNTYzYjY4YzlmYjVjMGViNw?sa=X&ved=0CAIQuIEEahcKEwiIydqCmOeAAxUAAAAAHQAAAAAQLA&hl=fr)
 
 
 ### Invitations
 
-* Festival de la Biographie de Nîmes, 27-29 janvier 2023
+* [Festival de la Biographie de Nîmes, 27-29 janvier 2023](https://www.calameo.com/read/0069518270c4f77d9e0d0)
 
 
 ## Bibliographie de l'outil Gallicagram
@@ -156,7 +156,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 
 ## Contact
-* Github
-* Twitter
-* Google Scholar
-* LinkedIn
+* [Github](https://github.com/benjyazoulay)
+* [Twitter](https://twitter.com/b_azoulay)
+* [Google Scholar](https://scholar.google.com/citations?user=3Xgf8SkAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/benjamin-azoulay/)
