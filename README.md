@@ -39,17 +39,17 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * [« Un proustien chez Shakespeare », Etienne de Montety, Le Figaro littéraire, 18 janvier 2023, p. 1](https://www.lefigaro.fr/livres/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-un-proustien-chez-shakespeare-20230118)
 * [« Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L’Opinion, 25 janvier 2023, p. 8](https://www.lopinion.fr/o2-week-end/abel-bonnard-du-symbolisme-au-fascisme-la-critique-de-bernard-quiriny)
 * « Un poète engagé sur la mauvaise voie », Philippe Maxence, Le Figaro Magazine, 3 février 2023, p. 86
-* « Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54
+* [« Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54](https://www.lesechos.fr/weekend/livres-expositions/de-pierre-loti-au-couple-einstein-secrets-et-passions-de-10-personnages-remarquables-1903263)
 * « Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6
-* « L’itinéraire d’un bon Aryen », Laurent Lemire, L’Obs, 9 au 15 février 2023, p. 77
-* « Abel Bonnard, plus nazi que les nazis », Denis Cosnard, Le Monde des Livres, 10 février 2023, p. 2
-* « Abel Bonnard, champion de la collaboration », Thierry Thomas, La nouvelle république, 19 février 2023, p. 3
-* « Abel Bonnard bon pour la collaboration », Denis Lefebvre, L’OURS, février 2023, p. 5-6
+* [« L’itinéraire d’un bon Aryen », Laurent Lemire, L’Obs, 9 au 15 février 2023, p. 77](https://www.nouvelobs.com/bibliobs/20230211.OBS69443/katie-kitamura-christine-orban-mohamed-mbougar-sarr-les-livres-de-la-semaine-a-ne-pas-rater.html)
+* [« Abel Bonnard, plus nazi que les nazis », Denis Cosnard, Le Monde des Livres, 10 février 2023, p. 2](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html)
+* [« Abel Bonnard, champion de la collaboration », Thierry Thomas, La nouvelle république, 19 février 2023, p. 3](https://www.centre-presse.fr/article-878493-livres-abel-bonnard-ne-a-poitiers-et-champion-de-la-collaboration.html)
+* [« Abel Bonnard bon pour la collaboration », Denis Lefebvre, L’OURS, février 2023, p. 5-6](https://www.lours.org/lours-525-fevrier-2023-se-preparer-a-une-societe-vieillissante/)
 * « Abel Bonnard ou l'académicien qui préparait le terrain pour Hitler », Arnaud Boucomont, Midi Libre, 26 mars 2023
 * « Du nouveau sur Abel Bonnard », Etienne Nivelleau, Le Bulletin Célinien, mars 2023, p. 7-10
-* « Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73
-* « L'Exil des collabos de Yves Pourcher : un voyage au bout de l'opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023
-* « Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181
+* [« Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73](https://www.causeur.fr/abel-bonnard-eternel-gestapette-258872)
+* [« L'Exil des collabos de Yves Pourcher : un voyage au bout de l'opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023](https://www.la-croix.com/Culture/LExil-collabos-Yves-Pourcher-voyage-bout-lopprobre-2023-04-14-1201263380)
+* [« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181](https://www.revuedesdeuxmondes.fr/revue/nietzsche-en-france/)
 
 
 ###Internet
