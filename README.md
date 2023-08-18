@@ -132,7 +132,9 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 * Pyllicagram (API Python) par Benoît de Courson : https://github.com/regicid/pyllicagram
 * Ruby Gem Gallicagram par Nicolas Le Roux : https://github.com/nicolrx/gallicagram
-* Projets utilisant Gallicagram
+
+
+### Projets utilisant Gallicagram
 * Gallibase par Etienne Brunet et Laurent Vanni : http://ancilla.unice.fr/pages/bases/
 * Gallica Grapher par Will Gleason : https://d32d5ops9ui5td.cloudfront.net/
 * La Langue Française par Nicolas Le Roux : https://www.lalanguefrancaise.com/dictionnaire
