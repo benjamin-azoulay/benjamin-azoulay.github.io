@@ -1,21 +1,17 @@
 <div>
 
-<img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" />
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" />
+  
+  <p style="float: right;"><strong>Administrateur des affaires maritimes</strong><br>
 
-<div>
+  <strong>Historien</strong><br>
 
-<p><strong>Administrateur des affaires maritimes</strong><br>
+  <strong>Data scientist</strong></p>
 
-<strong>Historien</strong><br> 
+  <br/>
 
-<strong>Data scientist</strong></p>
-
-<br/>
-
-<p>Historien nouvelle génération, j’ai écrit une <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis\_6161509\_3260.html">biographie d’Abel Bonnard publiée aux éditions Perrin</a> et développé le logiciel de lexicométrie <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> avec <a href="https://regicid.github.io">Benoît de Courson</a>.</p>
-
-</div>
-
+  <p style="float: right;">Historien nouvelle génération, j’ai écrit une <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis\_6161509\_3260.html">biographie d’Abel Bonnard publiée aux éditions Perrin</a> et développé le logiciel de lexicométrie <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> avec <a href="https://regicid.github.io">Benoît de Courson</a>.</p>
+  
 </div>
 
 <div align="center">
