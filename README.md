@@ -121,9 +121,11 @@
   <li><a href="https://www.calameo.com/read/0069518270c4f77d9e0d0">Festival de la Biographie de Nîmes, 27-29 janvier 2023</a></li>
   </ul>
 </div>
+<div style="display: flex; flex-direction: column;">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/487fc555-df97-4536-9bf9-726e461a6e97" style="margin-left: 10px;" width="200" /><br>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/a25c6137-f197-4e69-a12f-4196fab90498" style="margin-left: 10px;" width="200" /><br>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/c71f3898-a283-445e-a955-574f320e1afc" style="margin-left: 10px;" width="200" /><br>
+  </div>
 </div>
    
 <div align="center">
