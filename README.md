@@ -1,11 +1,16 @@
-<div align="right">
-![image](https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73)
+<div style="display:flex;align-items:flex-start;">
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" align="left" width="200" />
 
-**Administrateur des affaires maritimes / Historien / Data scientist**
-</div>
+  _**Administrateur des affaires maritimes**_  
+  _**Historien**_    
+  _**Data scientist**_
+
 
 Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard publiée aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html) et développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io).
 
+</div>
+
+<br clear="left"/>
 
 ## Ouvrage publié
 * [Benjamin Azoulay, *Abel Bonnard, Plume de la Collaboration*, Perrin, Paris, 2023, 384 p.](https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376)
