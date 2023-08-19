@@ -29,17 +29,18 @@
 <div style="display:flex;align-items:flex-start;">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/f9da5bf4-6c51-42a3-9e57-d0bff4fa60c3" align="right" width="300" />
 
-* [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://journals.openedition.org/corpus/7944)
-* [Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021](https://osf.io/84bf3/)
-* [Benjamin Azoulay, Benoît de Courson et Will Gleason, « Compter les mots pour remonter le temps : Gallicagram et Gallicagrapher, deux outils d’exploration des archives numérisées de la BnF », Culture et Recherche, n°144, printemps-été 2023, p. 82](https://u-picardie.hal.science/public/Culture_et_Recherche_144_La_science_ouverte.pdf)
-
+<ul>
+  <li><a href="https://journals.openedition.org/corpus/7944">Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023</a></li>
+  <li><a href="https://osf.io/84bf3/">Benjamin Azoulay et Benoît de Courson, « Gallicagram, un outil de lexicométrie pour la recherche », 2021</a></li>
+  <li><a href="https://u-picardie.hal.science/public/Culture_et_Recherche_144_La_science_ouverte.pdf">Benjamin Azoulay, Benoît de Courson et Will Gleason, « Compter les mots pour remonter le temps : Gallicagram et Gallicagrapher, deux outils d’exploration des archives numérisées de la BnF », Culture et Recherche, n°144, printemps-été 2023, p. 82</a></li>
+</ul>
+</div>
+<br clear="right"/>
 
 ## Articles en ligne
 
 * [« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023](https://proustonomics.com/entretien-avec-benjamin-azoulay/)
 
-</div>
-<br clear="right"/>
 
 <div align="center">
   <hr class="rounded" width="33%">
