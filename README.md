@@ -11,9 +11,20 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 </div>
 
 <br clear="left"/>
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 
 ## Ouvrage publié
 * [Benjamin Azoulay, *Abel Bonnard, Plume de la Collaboration*, Perrin, Paris, 2023, 384 p.](https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376)
+
+
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
+<div align="center">
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/60dc360f-37e5-4bea-89ad-06e3461800ef" height="100" />
+</div>
 
 ## Articles de recherche
 
@@ -27,6 +38,9 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * [« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023](https://proustonomics.com/entretien-avec-benjamin-azoulay/)
 
 
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 
 ## Projets en cours
 
@@ -37,6 +51,10 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * Proustographies : à la recherche de Marcel Proust, un portrait numérique
 * [Gallicanet](https://github.com/regicid/docker_gallicanet) : un réseau social du passé fondé sur l'analyse automatique de la proximité d'énonciation des entités nommées dans les corpus d'archives numérisées
 
+
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 
 ## A propos du livre *Abel Bonnard, Plume de la Collaboration*
 
@@ -88,6 +106,9 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 * [Festival de la Biographie de Nîmes, 27-29 janvier 2023](https://www.calameo.com/read/0069518270c4f77d9e0d0)
 
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 
 ## Bibliographie de l'outil Gallicagram
 
@@ -178,6 +199,9 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * <http://blog.ac-versailles.fr/starter/index.php/post/24/02/2022/GALLICAGRAM>
 * <https://www.bases-netsources.com/component/flexicontent/category/conseil-semaine>
 
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 
 ## Contact
 * [Github](https://github.com/benjyazoulay)
