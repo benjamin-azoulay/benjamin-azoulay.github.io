@@ -3,6 +3,9 @@
 Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard publiée aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html) et développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io).
 
 
+## Ouvrage publié
+* Benjamin Azoulay, *Abel Bonnard, Plume de la Collaboration*, Perrin, Paris, 2023, 384 p.
+
 ## Articles de recherche
 
 * [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://journals.openedition.org/corpus/7944)
@@ -26,7 +29,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * [Gallicanet](https://github.com/regicid/docker_gallicanet) : un réseau social du passé fondé sur l'analyse automatique de la proximité d'énonciation des entités nommées dans les corpus d'archives numérisées
 
 
-## A propos du livre Abel Bonnard, Plume de la Collaboration
+## A propos du livre *Abel Bonnard, Plume de la Collaboration*
 
 ### Recension
 
@@ -49,7 +52,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 * « Du nouveau sur Abel Bonnard », Etienne Nivelleau, Le Bulletin Célinien, mars 2023, p. 7-10
 * [« Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73](https://www.causeur.fr/abel-bonnard-eternel-gestapette-258872)
 * [« L'Exil des collabos de Yves Pourcher : un voyage au bout de l'opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023](https://www.la-croix.com/Culture/LExil-collabos-Yves-Pourcher-voyage-bout-lopprobre-2023-04-14-1201263380)
-* [« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181](https://www.revuedesdeuxmondes.fr/revue/nietzsche-en-france/)
+* [« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181](https://www.revuedesdeuxmondes.fr/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay/)
 
 
 ### Internet
