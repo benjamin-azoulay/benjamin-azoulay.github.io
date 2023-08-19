@@ -5,6 +5,7 @@
     <strong>Administrateur des affaires maritimes</strong><br>
     <strong>Historien</strong><br>
     <strong>Data scientist</strong><br>
+    <br>
     Historien nouvelle génération, j’ai écrit une
     <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html">
       biographie d’Abel Bonnard publiée aux éditions Perrin
