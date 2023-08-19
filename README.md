@@ -4,7 +4,7 @@ Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard 
 
 
 ## Ouvrage publié
-* Benjamin Azoulay, *Abel Bonnard, Plume de la Collaboration*, Perrin, Paris, 2023, 384 p.
+* [Benjamin Azoulay, *Abel Bonnard, Plume de la Collaboration*, Perrin, Paris, 2023, 384 p.](https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376)
 
 ## Articles de recherche
 
