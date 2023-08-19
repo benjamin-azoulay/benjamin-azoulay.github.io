@@ -6,11 +6,11 @@
 
   <strong>Historien</strong><br>
 
-  <strong>Data scientist</strong></p>
+  <strong>Data scientist</strong><br>
+
+  Historien nouvelle génération, j’ai écrit une <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis\_6161509\_3260.html">biographie d’Abel Bonnard publiée aux éditions Perrin</a> et développé le logiciel de lexicométrie <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> avec <a href="https://regicid.github.io">Benoît de Courson</a>.</p>
 
   <br/>
-
-  <p style="float: right;">Historien nouvelle génération, j’ai écrit une <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis\_6161509\_3260.html">biographie d’Abel Bonnard publiée aux éditions Perrin</a> et développé le logiciel de lexicométrie <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> avec <a href="https://regicid.github.io">Benoît de Courson</a>.</p>
   
 </div>
 
