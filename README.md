@@ -69,51 +69,63 @@
 </div>
 
 <h2 id="a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre <em>Abel Bonnard, Plume de la Collaboration</em></h2>
-<h3 id="recension">Recension</h3>
-<ul>
-<li><a href="https://www.cairn.info/revue-critique-2023-5-page-458.htm">« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472</a></li>
-</ul>
-<h3 id="presse">Presse</h3>
-<ul>
-<li><a href="https://www.historia.fr/biographies-historiques/lhistoire-dun-%C2%AB-bon-%C3%A0-rien-%C2%BB">« L’histoire d’un “bon à rien” », Denis Lefebvre, Historia, janvier 2023, p. 83</a></li>
-<li>« Vient de paraître : “Abel Bonnard, Plume de la Collaboration” par Benjamin Azoulay », Bulletin Quotidien, 12 janvier 2023</li>
-<li><a href="https://www.lefigaro.fr/livres/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-un-proustien-chez-shakespeare-20230118">« Un proustien chez Shakespeare », Etienne de Montety, Le Figaro littéraire, 18 janvier 2023, p. 1</a></li>
-<li><a href="https://www.lopinion.fr/o2-week-end/abel-bonnard-du-symbolisme-au-fascisme-la-critique-de-bernard-quiriny">« Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L’Opinion, 25 janvier 2023, p. 8</a></li>
-<li>« Un poète engagé sur la mauvaise voie », Philippe Maxence, Le Figaro Magazine, 3 février 2023, p. 86</li>
-<li><a href="https://www.lesechos.fr/weekend/livres-expositions/de-pierre-loti-au-couple-einstein-secrets-et-passions-de-10-personnages-remarquables-1903263">« Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54</a></li>
-<li>« Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6</li>
-<li><a href="https://www.nouvelobs.com/bibliobs/20230211.OBS69443/katie-kitamura-christine-orban-mohamed-mbougar-sarr-les-livres-de-la-semaine-a-ne-pas-rater.html">« L’itinéraire d’un bon Aryen », Laurent Lemire, L’Obs, 9 au 15 février 2023, p. 77</a></li>
-<li><a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html">« Abel Bonnard, plus nazi que les nazis », Denis Cosnard, Le Monde des Livres, 10 février 2023, p. 2</a></li>
-<li><a href="https://www.centre-presse.fr/article-878493-livres-abel-bonnard-ne-a-poitiers-et-champion-de-la-collaboration.html">« Abel Bonnard, champion de la collaboration », Thierry Thomas, La nouvelle république, 19 février 2023, p. 3</a></li>
-<li><a href="https://www.lours.org/lours-525-fevrier-2023-se-preparer-a-une-societe-vieillissante/">« Abel Bonnard bon pour la collaboration », Denis Lefebvre, L’OURS, février 2023, p. 5-6</a></li>
-<li>« Abel Bonnard ou l&#39;académicien qui préparait le terrain pour Hitler », Arnaud Boucomont, Midi Libre, 26 mars 2023</li>
-<li>« Du nouveau sur Abel Bonnard », Etienne Nivelleau, Le Bulletin Célinien, mars 2023, p. 7-10</li>
-<li><a href="https://www.causeur.fr/abel-bonnard-eternel-gestapette-258872">« Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73</a></li>
-<li><a href="https://www.la-croix.com/Culture/LExil-collabos-Yves-Pourcher-voyage-bout-lopprobre-2023-04-14-1201263380">« L&#39;Exil des collabos de Yves Pourcher : un voyage au bout de l&#39;opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023</a></li>
-<li><a href="https://www.revuedesdeuxmondes.fr/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay/">« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181</a></li>
-</ul>
-<h3 id="internet">Internet</h3>
-<ul>
-<li><a href="https://actualitte.com/article/109301/avant-parutions/abel-bonnard-soleil-noir-de-la-france-de-vichy">« Abel Bonnard, soleil noir de la France de Vichy », Hocine Bouhadjera, ActuaLitté, 26 décembre 2022</a></li>
-<li><a href="https://www.slate.fr/culture/pages-dhistoire/episode-11-collaboration-nazi-fascisme-livres-ils-l-appelaient-monsieur-hitler-bourseiller-abel-bonnard-azoulay-au-service-marechal-anglaert-propaganda-thiebot">« Pages d’histoire - Ép. 11 - Abel Bonnard, vie et mort d’un poète reconverti en ministre nazi », Sylvain Boulouque, Slate, 11 février 2023</a></li>
-<li><a href="https://clio-cr.clionautes.org/abel-bonnard-plume-de-la-collaboration.html">« Abel Bonnard – Plume de la Collaboration », Joël Drogland, Clionautes, 7 février 2023</a></li>
-<li><a href="https://www.lhistoire.fr/livres/proph%C3%A8te-du-collaborationnisme">« Prophète du collaborationnisme », L’Histoire, 15 février 2023</a></li>
-<li><a href="http://www.hebdoscope.fr/wp/blog/encre-noire/">« Encre noire », Laurent Pfaadt, Hebdoscope, 22 février 2023</a></li>
-<li><a href="https://www.gregoiredetours.fr/xxe-siecle/seconde-guerre-mondiale/benjamin-azoulay-abel-bonnard-plume-de-la-collaboration/">« Abel Bonnard, plume de la collaboration - Benjamin Azoulay », Adam Craponne, Grégoire de Tours, 4 février 2023</a></li>
-<li><a href="https://www.pariscilaculture.fr/2023/04/abel-bonnard-itineraire-dun-fasciste/">« Abel Bonnard, itinéraire d’un fasciste »,  Sylvain Bonnet, Paris-ci la culture, 4 avril 2023</a></li>
-</ul>
-<h3 id="radio">Radio</h3>
-<ul>
-<li><a href="https://www.europe1.fr/emissions/lequipee-sauvage/ils-ont-ete-radies-4161690">« Historiquement vôtre - Ils ont été radiés », Stéphane Bern, Europe 1, 17 janvier 2023</a></li>
-<li><a href="https://radionotredame.net/emissions/un-jour-une-histoire/17-01-2023/">« Un jour, une histoire - Qui était Abel Bonnard ? », Louis Daufresne, Radio Notre Dame, 17 janvier 2023</a></li>
-<li><a href="https://podcasts.audiomeans.fr/une-heure-avec--1512b78c3657/benjamin-azoulay-3083109d">« Une heure avec… Benjamin Azoulay», Frédérick Casadeus, Fréquence protestante, 28 janvier 2023</a></li>
-<li><a href="https://radio-esperance.fr/antenne-principale/larche-de-lhistoire/">« L’Arche de l’histoire - Abel Bonnard », Jean-Baptiste Noé, Radio Espérance, 31 janvier 2023</a></li>
-<li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzVjN2Y4ZTk3MGFkMmQ5ZWY3YTg4NTVkNw/episode/MDI1ZWU2MmJkNmM0NGE5ZmE2MDk0OGMwNTYzYjY4YzlmYjVjMGViNw?sa=X&amp;ved=0CAIQuIEEahcKEwiIydqCmOeAAxUAAAAAHQAAAAAQLA&amp;hl=fr">« Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023</a></li>
-</ul>
-<h3 id="invitations">Invitations</h3>
-<ul>
-<li><a href="https://www.calameo.com/read/0069518270c4f77d9e0d0">Festival de la Biographie de Nîmes, 27-29 janvier 2023</a></li>
-</ul>
+
+
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+
+  <h3 id="recension">Recension</h3>
+  <ul>
+  <li><a href="https://www.cairn.info/revue-critique-2023-5-page-458.htm">« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472</a></li>
+  </ul>
+  <h3 id="presse">Presse</h3>
+  <ul>
+  <li><a href="https://www.historia.fr/biographies-historiques/lhistoire-dun-%C2%AB-bon-%C3%A0-rien-%C2%BB">« L’histoire d’un “bon à rien” », Denis Lefebvre, Historia, janvier 2023, p. 83</a></li>
+  <li>« Vient de paraître : “Abel Bonnard, Plume de la Collaboration” par Benjamin Azoulay », Bulletin Quotidien, 12 janvier 2023</li>
+  <li><a href="https://www.lefigaro.fr/livres/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-un-proustien-chez-shakespeare-20230118">« Un proustien chez Shakespeare », Etienne de Montety, Le Figaro littéraire, 18 janvier 2023, p. 1</a></li>
+  <li><a href="https://www.lopinion.fr/o2-week-end/abel-bonnard-du-symbolisme-au-fascisme-la-critique-de-bernard-quiriny">« Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L’Opinion, 25 janvier 2023, p. 8</a></li>
+  <li>« Un poète engagé sur la mauvaise voie », Philippe Maxence, Le Figaro Magazine, 3 février 2023, p. 86</li>
+  <li><a href="https://www.lesechos.fr/weekend/livres-expositions/de-pierre-loti-au-couple-einstein-secrets-et-passions-de-10-personnages-remarquables-1903263">« Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54</a></li>
+  <li>« Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6</li>
+  <li><a href="https://www.nouvelobs.com/bibliobs/20230211.OBS69443/katie-kitamura-christine-orban-mohamed-mbougar-sarr-les-livres-de-la-semaine-a-ne-pas-rater.html">« L’itinéraire d’un bon Aryen », Laurent Lemire, L’Obs, 9 au 15 février 2023, p. 77</a></li>
+  <li><a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html">« Abel Bonnard, plus nazi que les nazis », Denis Cosnard, Le Monde des Livres, 10 février 2023, p. 2</a></li>
+  <li><a href="https://www.centre-presse.fr/article-878493-livres-abel-bonnard-ne-a-poitiers-et-champion-de-la-collaboration.html">« Abel Bonnard, champion de la collaboration », Thierry Thomas, La nouvelle république, 19 février 2023, p. 3</a></li>
+  <li><a href="https://www.lours.org/lours-525-fevrier-2023-se-preparer-a-une-societe-vieillissante/">« Abel Bonnard bon pour la collaboration », Denis Lefebvre, L’OURS, février 2023, p. 5-6</a></li>
+  <li>« Abel Bonnard ou l&#39;académicien qui préparait le terrain pour Hitler », Arnaud Boucomont, Midi Libre, 26 mars 2023</li>
+  <li>« Du nouveau sur Abel Bonnard », Etienne Nivelleau, Le Bulletin Célinien, mars 2023, p. 7-10</li>
+  <li><a href="https://www.causeur.fr/abel-bonnard-eternel-gestapette-258872">« Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73</a></li>
+  <li><a href="https://www.la-croix.com/Culture/LExil-collabos-Yves-Pourcher-voyage-bout-lopprobre-2023-04-14-1201263380">« L&#39;Exil des collabos de Yves Pourcher : un voyage au bout de l&#39;opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023</a></li>
+  <li><a href="https://www.revuedesdeuxmondes.fr/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay/">« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181</a></li>
+  </ul>
+  <h3 id="internet">Internet</h3>
+  <ul>
+  <li><a href="https://actualitte.com/article/109301/avant-parutions/abel-bonnard-soleil-noir-de-la-france-de-vichy">« Abel Bonnard, soleil noir de la France de Vichy », Hocine Bouhadjera, ActuaLitté, 26 décembre 2022</a></li>
+  <li><a href="https://www.slate.fr/culture/pages-dhistoire/episode-11-collaboration-nazi-fascisme-livres-ils-l-appelaient-monsieur-hitler-bourseiller-abel-bonnard-azoulay-au-service-marechal-anglaert-propaganda-thiebot">« Pages d’histoire - Ép. 11 - Abel Bonnard, vie et mort d’un poète reconverti en ministre nazi », Sylvain Boulouque, Slate, 11 février 2023</a></li>
+  <li><a href="https://clio-cr.clionautes.org/abel-bonnard-plume-de-la-collaboration.html">« Abel Bonnard – Plume de la Collaboration », Joël Drogland, Clionautes, 7 février 2023</a></li>
+  <li><a href="https://www.lhistoire.fr/livres/proph%C3%A8te-du-collaborationnisme">« Prophète du collaborationnisme », L’Histoire, 15 février 2023</a></li>
+  <li><a href="http://www.hebdoscope.fr/wp/blog/encre-noire/">« Encre noire », Laurent Pfaadt, Hebdoscope, 22 février 2023</a></li>
+  <li><a href="https://www.gregoiredetours.fr/xxe-siecle/seconde-guerre-mondiale/benjamin-azoulay-abel-bonnard-plume-de-la-collaboration/">« Abel Bonnard, plume de la collaboration - Benjamin Azoulay », Adam Craponne, Grégoire de Tours, 4 février 2023</a></li>
+  <li><a href="https://www.pariscilaculture.fr/2023/04/abel-bonnard-itineraire-dun-fasciste/">« Abel Bonnard, itinéraire d’un fasciste »,  Sylvain Bonnet, Paris-ci la culture, 4 avril 2023</a></li>
+  </ul>
+  <h3 id="radio">Radio</h3>
+  <ul>
+  <li><a href="https://www.europe1.fr/emissions/lequipee-sauvage/ils-ont-ete-radies-4161690">« Historiquement vôtre - Ils ont été radiés », Stéphane Bern, Europe 1, 17 janvier 2023</a></li>
+  <li><a href="https://radionotredame.net/emissions/un-jour-une-histoire/17-01-2023/">« Un jour, une histoire - Qui était Abel Bonnard ? », Louis Daufresne, Radio Notre Dame, 17 janvier 2023</a></li>
+  <li><a href="https://podcasts.audiomeans.fr/une-heure-avec--1512b78c3657/benjamin-azoulay-3083109d">« Une heure avec… Benjamin Azoulay», Frédérick Casadeus, Fréquence protestante, 28 janvier 2023</a></li>
+  <li><a href="https://radio-esperance.fr/antenne-principale/larche-de-lhistoire/">« L’Arche de l’histoire - Abel Bonnard », Jean-Baptiste Noé, Radio Espérance, 31 janvier 2023</a></li>
+  <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzVjN2Y4ZTk3MGFkMmQ5ZWY3YTg4NTVkNw/episode/MDI1ZWU2MmJkNmM0NGE5ZmE2MDk0OGMwNTYzYjY4YzlmYjVjMGViNw?sa=X&amp;ved=0CAIQuIEEahcKEwiIydqCmOeAAxUAAAAAHQAAAAAQLA&amp;hl=fr">« Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023</a></li>
+  </ul>
+  <h3 id="invitations">Invitations</h3>
+  <ul>
+  <li><a href="https://www.calameo.com/read/0069518270c4f77d9e0d0">Festival de la Biographie de Nîmes, 27-29 janvier 2023</a></li>
+  </ul>
+</div>
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/487fc555-df97-4536-9bf9-726e461a6e97" style="margin-left: 10px;" width="200" />
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/a25c6137-f197-4e69-a12f-4196fab90498" style="margin-left: 10px;" width="200" />
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/c71f3898-a283-445e-a955-574f320e1afc" style="margin-left: 10px;" width="200" />
+</div>
+   
 <div align="center">
   <hr class="rounded" width="33%">
 </div>
