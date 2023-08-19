@@ -1,13 +1,12 @@
 <div style="display:flex;align-items:flex-start;">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" align="left" width="200" />
 
-**Administrateur des affaires maritimes**  
-**Historien**    
-**Data scientist**
 
+<p><strong>Administrateur des affaires maritimes</strong><br>
+<strong>Historien</strong><br>
+<strong>Data scientist</strong></p>
 
-Historien nouvelle génération, j’ai écrit une [biographie d’Abel Bonnard publiée aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html) et développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io).
-
+<p>Historien nouvelle génération, j’ai écrit une <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html">biographie d’Abel Bonnard publiée aux éditions Perrin</a> et développé le logiciel de lexicométrie <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a> avec <a href="https://regicid.github.io">Benoît de Courson</a>.</p>
 </div>
 
 <br clear="left"/>
