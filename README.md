@@ -1,42 +1,5 @@
 <html>
-<head>
 
-<script>
-// Récupérer tous les éléments <h2>
-const headers = document.querySelectorAll('h2');
-
-// Itérer sur chaque <h2> 
-headers.forEach(header => {
-
-  // Générer un ID unique 
-  const id = header.getAttribute('id') || header.innerText.toLowerCase().replace(/ /g, '-');
-
-  // Ajouter le bouton et le handler
-  header.insertAdjacentHTML('afterbegin', `
-    <button style="background-color: transparent; border: none; cursor: pointer; font-size: 20px;" onclick="toggleVisibility('${id}')">+</button>
-  `);
-  
-  // Masquer le contenu après
-  const next = header.nextElementSibling;
-  if(next) {
-    next.style.display = 'none';
-    next.id = id; 
-  }
-
-});
-
-// Fonction toggleVisibility
-function toggleVisibility(id) {
-  const e = document.getElementById(id);
-  if(e.style.display === 'block') {
-    e.style.display = 'none';
-  } else {
-    e.style.display = 'block'; 
-  }
-}
-</script>
-
-</head>
 <body>
   <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
@@ -94,7 +57,7 @@ function toggleVisibility(id) {
 </div>
 
 
-## Articles en ligne
+<h2 id="articles-en-ligne">Articles en ligne</h2>
 
 <ul>
     <li><a href="https://proustonomics.com/entretien-avec-benjamin-azoulay/">« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023</a></li>
