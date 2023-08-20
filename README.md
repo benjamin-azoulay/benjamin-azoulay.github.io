@@ -1,4 +1,44 @@
-<div>
+<html>
+<head>
+
+<script>
+// Récupérer tous les éléments <h2>
+const headers = document.querySelectorAll('h2');
+
+// Itérer sur chaque <h2> 
+headers.forEach(header => {
+
+  // Générer un ID unique 
+  const id = header.getAttribute('id') || header.innerText.toLowerCase().replace(/ /g, '-');
+
+  // Ajouter le bouton et le handler
+  header.insertAdjacentHTML('afterbegin', `
+    <button style="background-color: transparent; border: none; cursor: pointer; font-size: 20px;" onclick="toggleVisibility('${id}')">+</button>
+  `);
+  
+  // Masquer le contenu après
+  const next = header.nextElementSibling;
+  if(next) {
+    next.style.display = 'none';
+    next.id = id; 
+  }
+
+});
+
+// Fonction toggleVisibility
+function toggleVisibility(id) {
+  const e = document.getElementById(id);
+  if(e.style.display === 'block') {
+    e.style.display = 'none';
+  } else {
+    e.style.display = 'block'; 
+  }
+}
+</script>
+
+</head>
+<body>
+  <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
 
   <p>
@@ -242,3 +282,5 @@
 <li><a href="https://scholar.google.com/citations?user=3Xgf8SkAAAAJ">Google Scholar</a></li>
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
+</body>
+</html>
