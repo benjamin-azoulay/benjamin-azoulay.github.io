@@ -1,4 +1,3 @@
-
 <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
 
