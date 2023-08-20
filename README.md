@@ -22,10 +22,7 @@
   <hr class="rounded" width="33%">
 </div>
 
-<h2>
-  <button style="background-color: transparent; border: none; cursor: pointer; font-size: 20px;" onclick="toggleVisibility('ouvrage')">+</button>
-  <span id="ouvrage-publi-">Ouvrage publié</span>
-</h2>
+<h2 id="ouvrage-publi-">Ouvrage publié</h2>
 
 <ul id="ouvrage" style="display:none">
   <li>
@@ -36,18 +33,10 @@
 </ul>
 
 
-</script>
 <div align="center">
   <hr class="rounded" width="33%">
 </div>
-<script>
-function toggleVisibility(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}  
+
 
 <div align="center">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/60dc360f-37e5-4bea-89ad-06e3461800ef" height="100" />
