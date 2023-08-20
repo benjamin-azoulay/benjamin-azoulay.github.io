@@ -244,36 +244,34 @@
 </ul>
 
 <script>
-// Sélectionner tous les titres h2 
 const headers = document.querySelectorAll('h2');
 
-// Itérer sur chacun
 headers.forEach(header => {
 
-  // Générer un ID unique
   const id = header.getAttribute('id') || header.innerText.toLowerCase().replace(/ /g, '-');
 
-  // Insérer le bouton 
   header.insertAdjacentHTML('afterbegin', `
-    <button style="background-color: transparent; border: none; cursor: pointer; font-size: 20px;" onclick="toggleVisibility('${id}')">+</button>
+    <button onclick="toggleVisibility('${id}')">+</button>
   `);
-
-  // Masquer le contenu après
-  const next = header.nextElementSibling;
-  if(next) {
-    next.style.display = 'none';
-    next.id = id;
+  
+  // Ne sélectionner que l'élément suivant le h2
+  const content = header.nextElementSibling; 
+  if(content) {
+    content.style.display = 'none'; 
+    content.id = id;
   }
 
 });
 
-// Fonction toggleVisibility identique 
 function toggleVisibility(id) {
-  const e = document.getElementById(id);
-  if(e.style.display === 'block') {
-    e.style.display = 'none';
+  
+  // Cibler seulement l'élément contenu
+  const content = document.getElementById(id);
+  
+  if(content.style.display === 'block') {
+    content.style.display = 'none';
   } else {
-    e.style.display = 'block'; 
+    content.style.display = 'block';
   }
 }
 </script>
