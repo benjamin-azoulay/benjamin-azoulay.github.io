@@ -23,10 +23,28 @@
   <hr class="rounded" width="33%">
 </div>
 
-<h2 id="ouvrage-publi-">Ouvrage publié</h2>
-<ul>
-<li><a href="https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376">Benjamin Azoulay, <em>Abel Bonnard, Plume de la Collaboration</em>, Perrin, Paris, 2023, 384 p.</a></li>
+<h2>
+  <button onclick="toggleVisibility('ouvrage')">+</button> 
+  <span id="ouvrage-publi-">Ouvrage publié</span>
+</h2>
+
+<ul id="ouvrage" style="display:none">
+  <li>
+    <a href="https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376">
+      Benjamin Azoulay, <em>Abel Bonnard, Plume de la Collaboration</em>, Perrin, Paris, 2023, 384 p.
+    </a>
+  </li>
 </ul>
+
+<script>
+function toggleVisibility(id) {
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}  
+</script>
 <div align="center">
   <hr class="rounded" width="33%">
 </div>
