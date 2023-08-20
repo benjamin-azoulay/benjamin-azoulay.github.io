@@ -1,4 +1,4 @@
-<div style="background-color: #C48B7A;">
+
 <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
 
@@ -234,5 +234,3 @@
 <li><a href="https://scholar.google.com/citations?user=3Xgf8SkAAAAJ">Google Scholar</a></li>
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
-
-</div>
