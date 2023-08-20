@@ -244,36 +244,13 @@
 </ul>
 
 <script>
-const headers = document.querySelectorAll('h2');
-
-headers.forEach(header => {
-
-  const id = header.getAttribute('id') || header.innerText.toLowerCase().replace(/ /g, '-');
-
-  header.insertAdjacentHTML('afterbegin', `
-    <button onclick="toggleVisibility('${id}')">+</button>
-  `);
-  
-  // Ne sélectionner que l'élément suivant le h2
-  const content = header.nextElementSibling; 
-  if(content) {
-    content.style.display = 'none'; 
-    content.id = id;
-  }
-
-});
-
 function toggleVisibility(id) {
-  
-  // Cibler seulement l'élément contenu
-  const content = document.getElementById(id);
-  
-  if(content.style.display === 'block') {
-    content.style.display = 'none';
-  } else {
-    content.style.display = 'block';
-  }
-}
+  var e = document.getElementById(id);
+  if(e.style.display == 'block')
+    e.style.display = 'none';
+  else
+    e.style.display = 'block';
+}  
 </script>
 
 </body>
