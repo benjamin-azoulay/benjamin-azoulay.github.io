@@ -35,6 +35,11 @@
   </li>
 </ul>
 
+
+</script>
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
 <script>
 function toggleVisibility(id) {
   var e = document.getElementById(id);
@@ -43,10 +48,7 @@ function toggleVisibility(id) {
   else
     e.style.display = 'block';
 }  
-</script>
-<div align="center">
-  <hr class="rounded" width="33%">
-</div>
+
 <div align="center">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/60dc360f-37e5-4bea-89ad-06e3461800ef" height="100" />
 </div>
