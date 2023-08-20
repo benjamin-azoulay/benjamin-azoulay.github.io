@@ -23,7 +23,7 @@
 </div>
 
 <h2>
-  <button onclick="toggleVisibility('ouvrage')">+</button> 
+  <button style="background-color: transparent; border: none; cursor: pointer; font-size: 20px;" onclick="toggleVisibility('ouvrage')">+</button>
   <span id="ouvrage-publi-">Ouvrage publié</span>
 </h2>
 
