@@ -47,13 +47,16 @@
     <li><a href="#articles-en-ligne">Articles en ligne</a></li>
     <li><a href="#projets-en-cours">Projets en cours</a></li>
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
+    <!--
     <ul>
       <li><a href="#recension">Recension</a></li>
       <li><a href="#presse">Presse</a></li>
       <li><a href="#internet">Internet</a></li>
       <li><a href="#radio">Radio</a></li>
     </ul>
+    -->
     <li><a href="#bibliographie-de-l-outil-gallicagram">Bibliographie de l'outil Gallicagram</a></li>
+    <!--
     <ul>
       <li><a href="#articles-d-crivant-gallicagram">Articles décrivant Gallicagram</a></li>
       <li><a href="#travaux-utilisant-gallicagram">Travaux utilisant Gallicagram</a></li>
@@ -62,6 +65,7 @@
       <li><a href="#projets-utilisant-gallicagram">Projets utilisant Gallicagram</a></li>
       <li><a href="#sites-r-f-ren-ant-gallicagram-comme-outil">Sites référençant Gallicagram comme outil</a></li>
     </ul>
+    -->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#CV">Curriculum vitæ</a></li>
   </ul>
@@ -319,24 +323,6 @@
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       document.body.setAttribute('data-theme', 'dark');
     }
-
- document.addEventListener('DOMContentLoaded', (event) => {
-  var divElement = document.querySelector('#table');
-  var lis = divElement.querySelectorAll('li');
-  lis.forEach((li) => {
-    var nextElement = li.querySelector('ul');
-    if (nextElement) {
-      var h3s = nextElement.querySelectorAll('h3');
-      h3s.forEach((h3) => {
-        li.addEventListener('click', function() {
-          h3.style.display = h3.style.display === 'none' ? 'block' : 'none';
-        });
-        h3.style.display = 'none';
-      });
-    }
-  });
-});
-  
 </script>
 
 </body>
