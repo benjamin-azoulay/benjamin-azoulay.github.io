@@ -22,13 +22,13 @@
         btn.innerHTML = '+';
         btn.className = 'collapsible';
         elements[i].insertAdjacentElement('beforebegin', btn);
-        var content = elements[i].nextElementSibling;
+        var content = btn.nextElementSibling.nextElementSibling;
         while (content && content.tagName !== 'H2') {
           content.className += ' content';
           content = content.nextElementSibling;
         }
         btn.addEventListener('click', function() {
-          var content = this.nextElementSibling;
+          var content = this.nextElementSibling.nextElementSibling;
           while (content && content.tagName !== 'H2') {
             content.style.display = content.style.display === 'none' ? 'block' : 'none';
             content = content.nextElementSibling;
