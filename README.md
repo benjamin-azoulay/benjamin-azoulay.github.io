@@ -320,16 +320,19 @@
       document.body.setAttribute('data-theme', 'dark');
     }
 
-  document.addEventListener('DOMContentLoaded', (event) => {
+ document.addEventListener('DOMContentLoaded', (event) => {
   var divElement = document.querySelector('#table');
   var h2s = divElement.querySelectorAll('h2');
   h2s.forEach((h2) => {
     var nextElement = h2.nextElementSibling;
     if (nextElement && nextElement.tagName.toLowerCase() === 'ul') {
-      h2.addEventListener('click', function() {
-        nextElement.style.display = nextElement.style.display === 'none' ? 'block' : 'none';
-      });
-      nextElement.style.display = 'none';
+      var h3 = nextElement.querySelector('h3');
+      if (h3) {
+        h2.addEventListener('click', function() {
+          h3.style.display = h3.style.display === 'none' ? 'block' : 'none';
+        });
+        h3.style.display = 'none';
+      }
     }
   });
 });
