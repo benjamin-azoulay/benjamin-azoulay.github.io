@@ -120,7 +120,7 @@
 </div>
 
 <h2 id="projets-en-cours">Projets en cours</h2>
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; align-items: flex-end; justify-content: space-between;">
   <div style="flex: 1;">
     <ul>
     <li>CriminoScope : un logiciel d&#39;analyse socio-géographique des crimes et délits</li>
