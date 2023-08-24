@@ -65,10 +65,6 @@
 <li><a href="https://www.lisez.com/livre-grand-format/abel-bonnard/9782262095376">Benjamin Azoulay, <em>Abel Bonnard, Plume de la Collaboration</em>, Perrin, Paris, 2023, 384 p.</a></li>
 </ul>
 
-<div align="center">
-  <hr class="rounded" width="33%">
-</div>
-
  <!--
 <div align="center">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/60dc360f-37e5-4bea-89ad-06e3461800ef" height="100" />
