@@ -2,6 +2,10 @@
 
 <head>
   <style>
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
     body[data-theme='dark'] {
       background-color: #000;
       color: #fff;
