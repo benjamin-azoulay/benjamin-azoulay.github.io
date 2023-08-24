@@ -326,13 +326,13 @@
   h2s.forEach((h2) => {
     var nextElement = h2.nextElementSibling;
     if (nextElement && nextElement.tagName.toLowerCase() === 'ul') {
-      var h3 = nextElement.querySelector('h3');
-      if (h3) {
+      var h3s = nextElement.querySelectorAll('h3');
+      h3s.forEach((h3) => {
         h2.addEventListener('click', function() {
           h3.style.display = h3.style.display === 'none' ? 'block' : 'none';
         });
         h3.style.display = 'none';
-      }
+      });
     }
   });
 });
