@@ -40,7 +40,7 @@
 </div>
 
 
-<div>
+<div id="table">
   <ul>
     <li><a href="#ouvrage-publi-">Ouvrage publié</a></li>
     <li><a href="#articles-de-recherche">Articles de recherche</a></li>
@@ -319,7 +319,22 @@
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       document.body.setAttribute('data-theme', 'dark');
     }
-  </script>
+
+  document.addEventListener('DOMContentLoaded', (event) => {
+    var divElement = document.querySelector('#table'); // Sélectionnez le div contenant la table par son id
+    var h2s = divElement.querySelectorAll('h2');
+    h2s.forEach((h2) => {
+      var nextElement = h2.nextElementSibling;
+      if (nextElement && nextElement.tagName.toLowerCase() === 'h3') {
+        h2.addEventListener('click', function() {
+          nextElement.style.display = nextElement.style.display === 'none' ? 'block' : 'none';
+        });
+        nextElement.style.display = 'none';
+      }
+    });
+  });
+  
+</script>
 
 </body>
 </html>
