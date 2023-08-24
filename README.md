@@ -7,6 +7,11 @@
       border: none;
       cursor: pointer;
       font-size: 20px;
+      float: left;
+      margin-right: 10px;
+    }
+    .content {
+      display: none;
     }
   </style>
   <script>
@@ -16,7 +21,12 @@
         var btn = document.createElement('button');
         btn.innerHTML = '+';
         btn.className = 'collapsible';
-        elements[i].insertAdjacentElement('afterend', btn);
+        elements[i].insertAdjacentElement('beforebegin', btn);
+        var content = elements[i].nextElementSibling;
+        while (content && content.tagName !== 'H2') {
+          content.className += ' content';
+          content = content.nextElementSibling;
+        }
         btn.addEventListener('click', function() {
           var content = this.nextElementSibling;
           while (content && content.tagName !== 'H2') {
@@ -28,6 +38,7 @@
     };
   </script>
 </head>
+
 <body>
   <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
