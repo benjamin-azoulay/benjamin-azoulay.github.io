@@ -1,48 +1,5 @@
 <html>
 
-<head>
-  <style>
-    .collapsible {
-      background-color: transparent;
-      border: none;
-      cursor: pointer;
-      font-size: 20px;
-      float: left;
-      margin-right: 10px;
-    }
-    .content {
-      display: none;
-    }
-  </style>
-  <script>
-    window.onload = function() {
-      var elements = document.getElementsByTagName('h2');
-      for (var i = 0; i < elements.length; i++) {
-        var btn = document.createElement('button');
-        btn.innerHTML = '+';
-        btn.className = 'collapsible';
-        elements[i].insertAdjacentElement('beforebegin', btn);
-        var content = btn.nextElementSibling.nextElementSibling;
-        while (content && content.tagName !== 'H2') {
-          if (content.style.display !== 'flex') {
-            content.className += ' content';
-          }
-          content = content.nextElementSibling;
-        }
-        btn.addEventListener('click', function() {
-          var content = this.nextElementSibling.nextElementSibling;
-          while (content && content.tagName !== 'H2') {
-            if (content.style.display !== 'flex') {
-              content.style.display = content.style.display === 'none' ? 'block' : 'none';
-            }
-            content = content.nextElementSibling;
-          }
-        });
-      }
-    };
-  </script>
-</head>
-
 <body>
   <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
