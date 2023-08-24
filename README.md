@@ -310,6 +310,10 @@
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
 
+<h2 id="CV">Curriculum vitæ</h2>
+<embed src="https://github.com/9bb7a796-5daa-4555-aeac-e6d83fca7668">
+
+
 <script>
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       document.body.setAttribute('data-theme', 'dark');
