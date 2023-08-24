@@ -69,10 +69,11 @@
   <hr class="rounded" width="33%">
 </div>
 
-
+ <!--
 <div align="center">
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/60dc360f-37e5-4bea-89ad-06e3461800ef" height="100" />
 </div>
+-->
 
 <h2 id="articles-de-recherche">Articles de recherche</h2>
 
