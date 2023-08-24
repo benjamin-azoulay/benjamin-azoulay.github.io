@@ -24,13 +24,17 @@
         elements[i].insertAdjacentElement('beforebegin', btn);
         var content = btn.nextElementSibling.nextElementSibling;
         while (content && content.tagName !== 'H2') {
-          content.className += ' content';
+          if (content.style.display !== 'flex') {
+            content.className += ' content';
+          }
           content = content.nextElementSibling;
         }
         btn.addEventListener('click', function() {
           var content = this.nextElementSibling.nextElementSibling;
           while (content && content.tagName !== 'H2') {
-            content.style.display = content.style.display === 'none' ? 'block' : 'none';
+            if (content.style.display !== 'flex') {
+              content.style.display = content.style.display === 'none' ? 'block' : 'none';
+            }
             content = content.nextElementSibling;
           }
         });
@@ -281,15 +285,6 @@
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
 
-<script>
-function toggleVisibility(id) {
-  var e = document.getElementById(id);
-  if(e.style.display == 'block')
-    e.style.display = 'none';
-  else
-    e.style.display = 'block';
-}  
-</script>
 
 </body>
 </html>
