@@ -311,7 +311,7 @@
 </ul>
 
 <h2 id="CV">Curriculum vitæ</h2>
-<embed src="https://1drv.ms/b/s!ArWVL4w5kP7zgbEVWOVleI50i3s3JQ?e=FeFmsO" type="application/pdf">
+<embed src="CV_sans_adresse.pdf" type="application/pdf" width="100%" height="100%">
 
 
 <script>
