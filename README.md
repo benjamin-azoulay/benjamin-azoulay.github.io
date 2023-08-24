@@ -115,14 +115,25 @@
 </div>
 
 <h2 id="projets-en-cours">Projets en cours</h2>
-<ul>
-<li>CriminoScope : un logiciel d&#39;analyse socio-géographique des crimes et délits</li>
-<li><a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a></li>
-<li>Seastats+ : un projet d&#39;accidentologie prédictive en mer</li>
-<li><a href="https://github.com/benjyazoulay/index-timeline">La représentation graphique des index pour les ouvrages historiques</a></li>
-<li>Proustographies : à la recherche de Marcel Proust, un portrait numérique</li>
-<li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a> : un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
-</ul>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <ul>
+    <li>CriminoScope : un logiciel d&#39;analyse socio-géographique des crimes et délits</li>
+    <li><a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a></li>
+    <li>Seastats+ : un projet d&#39;accidentologie prédictive en mer</li>
+    <li><a href="https://github.com/benjyazoulay/index-timeline">La représentation graphique des index pour les ouvrages historiques</a></li>
+    <li>Proustographies : à la recherche de Marcel Proust, un portrait numérique</li>
+    <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a> : un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
+    </ul>
+  </div>
+  
+  <div style="display: flex; flex-direction: column;">
+    <figure>
+  <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/fe5c5a7e-1d61-41dd-8562-1de05973639f" align="right" width="300" style="margin-left: 10px;" />
+    <figcaption style="text-align: center;">Criminoscope</figcaption>
+  </figure>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start;">
   <figure style="margin-right: 10px;">
