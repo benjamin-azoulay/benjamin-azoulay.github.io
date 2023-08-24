@@ -25,6 +25,39 @@
   <hr class="rounded" width="33%">
 </div>
 
+
+<div>
+  <ul>
+    <li><a href="#ouvrage-publi-">Ouvrage publié</a></li>
+    <li><a href="#articles-de-recherche">Articles de recherche</a></li>
+    <li><a href="#articles-en-ligne">Articles en ligne</a></li>
+    <li><a href="#projets-en-cours">Projets en cours</a></li>
+    <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
+    <ul>
+      <li><a href="#recension">Recension</a></li>
+      <li><a href="#presse">Presse</a></li>
+      <li><a href="#internet">Internet</a></li>
+      <li><a href="#radio">Radio</a></li>
+    </ul>
+    <li><a href="#bibliographie-de-l-outil-gallicagram">Bibliographie de l'outil Gallicagram</a></li>
+    <ul>
+      <li><a href="#articles-d-crivant-gallicagram">Articles décrivant Gallicagram</a></li>
+      <li><a href="#travaux-utilisant-gallicagram">Travaux utilisant Gallicagram</a></li>
+      <li><a href="#conf-rences-de-pr-sentation-de-gallicagram">Conférences de présentation de Gallicagram</a></li>
+      <li><a href="#projets-fond-s-sur-gallicagram">Projets fondés sur Gallicagram</a></li>
+      <li><a href="#projets-utilisant-gallicagram">Projets utilisant Gallicagram</a></li>
+      <li><a href="#sites-r-f-ren-ant-gallicagram-comme-outil">Sites référençant Gallicagram comme outil</a></li>
+    </ul>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</div>
+
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
+
+
+
 <h2>
   <span id="ouvrage-publi-">Ouvrage publié</span>
 </h2>
