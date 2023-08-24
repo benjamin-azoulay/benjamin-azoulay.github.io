@@ -321,18 +321,18 @@
     }
 
   document.addEventListener('DOMContentLoaded', (event) => {
-    var divElement = document.querySelector('#table'); // Sélectionnez le div contenant la table par son id
-    var h2s = divElement.querySelectorAll('h2');
-    h2s.forEach((h2) => {
-      var nextElement = h2.nextElementSibling;
-      if (nextElement && nextElement.tagName.toLowerCase() === 'h3') {
-        h2.addEventListener('click', function() {
-          nextElement.style.display = nextElement.style.display === 'none' ? 'block' : 'none';
-        });
-        nextElement.style.display = 'none';
-      }
-    });
+  var divElement = document.querySelector('#table');
+  var h2s = divElement.querySelectorAll('h2');
+  h2s.forEach((h2) => {
+    var nextElement = h2.nextElementSibling;
+    if (nextElement && nextElement.tagName.toLowerCase() === 'ul') {
+      h2.addEventListener('click', function() {
+        nextElement.style.display = nextElement.style.display === 'none' ? 'block' : 'none';
+      });
+      nextElement.style.display = 'none';
+    }
   });
+});
   
 </script>
 
