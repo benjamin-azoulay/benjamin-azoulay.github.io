@@ -311,7 +311,7 @@
 </ul>
 
 <h2 id="CV">Curriculum vitæ</h2>
-<embed src="https://github.com/9bb7a796-5daa-4555-aeac-e6d83fca7668">
+<embed src="https://github.com/9bb7a796-5daa-4555-aeac-e6d83fca7668" type="application/pdf">
 
 
 <script>
