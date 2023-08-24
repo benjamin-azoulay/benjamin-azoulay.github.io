@@ -1,5 +1,15 @@
 <html>
 
+<head>
+  <style>
+    body[data-theme='dark'] {
+      background-color: #000;
+      color: #fff;
+    }
+  </style>
+</head>
+
+
 <body>
   <div>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
@@ -272,6 +282,11 @@
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
 
+<script>
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.body.setAttribute('data-theme', 'dark');
+    }
+  </script>
 
 </body>
 </html>
