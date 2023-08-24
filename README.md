@@ -311,7 +311,7 @@
 </ul>
 
 <h2 id="CV">Curriculum vitæ</h2>
-<embed src="https://github.com/benjyazoulay/CV/blob/4ec7c986c9b62f34907a3b4ca8f3bfee150a665a/CV_sans_adresse.pdf" type="application/pdf">
+<embed src="CV_sans_adresse.pdf" type="application/pdf">
 
 
 <script>
