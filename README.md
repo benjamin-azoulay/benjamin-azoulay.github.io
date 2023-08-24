@@ -126,12 +126,12 @@
 
 <div style="display: flex; align-items: flex-start;">
   <figure style="margin-right: 10px;">
-    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/52bc32c3-62ef-459a-8c6b-c027c848f01b" height="180" />
-    <figcaption>Criminoscope</figcaption>
+    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/52bc32c3-62ef-459a-8c6b-c027c848f01b" height="200" />
+    <figcaption style="text-align: center;">Criminoscope</figcaption>
   </figure>
   <figure style="margin-right: 10px;">
-    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/2b1f6ef8-1a17-4b26-9a85-d547b2f10022" height="180" />
-    <figcaption>Gallicanet</figcaption>
+    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/2b1f6ef8-1a17-4b26-9a85-d547b2f10022" height="200" />
+    <figcaption style="text-align: center;">Gallicanet</figcaption>
   </figure>
 </div>
 
