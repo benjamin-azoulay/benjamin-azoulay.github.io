@@ -322,13 +322,13 @@
 
  document.addEventListener('DOMContentLoaded', (event) => {
   var divElement = document.querySelector('#table');
-  var h2s = divElement.querySelectorAll('h2');
-  h2s.forEach((h2) => {
-    var nextElement = h2.nextElementSibling;
-    if (nextElement && nextElement.tagName.toLowerCase() === 'ul') {
+  var lis = divElement.querySelectorAll('li');
+  lis.forEach((li) => {
+    var nextElement = li.querySelector('ul');
+    if (nextElement) {
       var h3s = nextElement.querySelectorAll('h3');
       h3s.forEach((h3) => {
-        h2.addEventListener('click', function() {
+        li.addEventListener('click', function() {
           h3.style.display = h3.style.display === 'none' ? 'block' : 'none';
         });
         h3.style.display = 'none';
