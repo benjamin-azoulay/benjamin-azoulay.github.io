@@ -85,6 +85,7 @@
 </div>
 -->
 
+
 <h2 id="articles-de-recherche">Articles de recherche</h2>
 
 <div style="display: flex; align-items: flex-start;">
@@ -122,6 +123,18 @@
 <li>Proustographies : à la recherche de Marcel Proust, un portrait numérique</li>
 <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a> : un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
 </ul>
+
+<div style="display: flex; align-items: flex-start;">
+  <figure style="margin-right: 10px;">
+    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/52bc32c3-62ef-459a-8c6b-c027c848f01b" height="180" />
+    <figcaption>Criminoscope</figcaption>
+  </figure>
+  <figure style="margin-right: 10px;">
+    <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/2b1f6ef8-1a17-4b26-9a85-d547b2f10022" height="180" />
+    <figcaption>Gallicanet</figcaption>
+  </figure>
+</div>
+
 <div align="center">
   <hr class="rounded" width="33%">
 </div>
