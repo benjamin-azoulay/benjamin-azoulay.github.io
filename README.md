@@ -128,7 +128,7 @@
     </ul>
   </div>
   
-  <div style="display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: space-between;">
     <figure>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/fe5c5a7e-1d61-41dd-8562-1de05973639f" align="right" width="300" style="margin-left: 10px;" />
     <figcaption style="text-align: center;">Criminoscope</figcaption>
