@@ -202,6 +202,7 @@
   <li><a href="https://podcasts.audiomeans.fr/une-heure-avec--1512b78c3657/benjamin-azoulay-3083109d">« Une heure avec… Benjamin Azoulay», Frédérick Casadeus, Fréquence protestante, 28 janvier 2023</a></li>
   <li><a href="https://radio-esperance.fr/antenne-principale/larche-de-lhistoire/">« L’Arche de l’histoire - Abel Bonnard », Jean-Baptiste Noé, Radio Espérance, 31 janvier 2023</a></li>
   <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzVjN2Y4ZTk3MGFkMmQ5ZWY3YTg4NTVkNw/episode/MDI1ZWU2MmJkNmM0NGE5ZmE2MDk0OGMwNTYzYjY4YzlmYjVjMGViNw?sa=X&amp;ved=0CAIQuIEEahcKEwiIydqCmOeAAxUAAAAAHQAAAAAQLA&amp;hl=fr">« Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023</a></li>
+  <li><a href="https://www.revueconflits.com/podcast-abel-bonnard-roi-des-lettres-et-de-la-collaboration-benjamin-azoulay/">« Abel Bonnard, roi des lettres et de la collaboration », Jean-Baptiste Noé, Revue Conflits, 22 août 2023</a></li>
   </ul>
   <h3 id="invitations">Invitations</h3>
   <ul>
@@ -244,6 +245,7 @@
 <li>François Jacquesson, « Euthanasie », Caramel, Sciences du langage et monde contemporain, 4 juillet 2023, <a href="https://caramel.hypotheses.org/32701">https://caramel.hypotheses.org/32701</a></li>
 <li>François Jacquesson, « Place de l’Utopie, allez tout droit ! », Caramel, Sciences du langage et monde contemporain, 15 juillet 2023, <a href="https://caramel.hypotheses.org/33066">https://caramel.hypotheses.org/33066</a></li>
 <li>François Jacquesson, « L’espion pris dans la guerre », Caramel, Sciences du langage et monde contemporain, 10 août 2023, <a href="https://caramel.hypotheses.org/34168">https://caramel.hypotheses.org/34168</a></li>
+<li>François Jacquesson, « Le dernier homme », Caramel, Sciences du langage et monde contemporain, 21 août 2023, <a href="https://caramel.hypotheses.org/34168">https://caramel.hypotheses.org/34526</a></li> 
 <li>Madeleine Leroy. « „Bäder bauen heißt Spitäler sparen“. Piscines et bains-douches publics de « Vienne la rouge » (1919-1934) comme éléments d’une politique urbaine d’hygiène sociale », 2021, <a href="https://dumas.ccsd.cnrs.fr/dumas-03416702">https://dumas.ccsd.cnrs.fr/dumas-03416702</a></li>
 <li>Erwan Le Gall, « A propos de l’antimilitarisme des Sârs et de la rougeole politique (1913) », Ar Brezel, 5 janvier 2022, <a href="https://arbrezel.hypotheses.org/4804">https://arbrezel.hypotheses.org/4804</a></li>
 <li>Erwan Le Gall, « Février 1918 : l’estuaire de la Loire au bord de la Révolution ? », Ar Brezel, 2 février 2022, <a href="https://arbrezel.hypotheses.org/4963">https://arbrezel.hypotheses.org/4963</a></li>
