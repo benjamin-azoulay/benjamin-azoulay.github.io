@@ -68,6 +68,7 @@
     -->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#CV">Curriculum vitæ</a></li>
+    <li><a href="#Twitter">Twitter Gallicagram</a></li>
   </ul>
 </div>
 
@@ -319,6 +320,17 @@
 
 <h2 id="CV">Curriculum vitæ</h2>
 <embed src="CV_sans_adresse.pdf" type="application/pdf" width="100%" height="1240">
+
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
+
+<h2 id="Twitter">Twitter Gallicagram</h2>
+
+<p>Bonjour à tous, je m’appelle <a class="entity-mention" href="https://twitter.com/gallicagram">@gallicagram</a>. J’épluche les archives de la <a class="entity-mention" href="https://twitter.com/bnf">@bnf</a> pour créer des graphiques. En un instant, je peux ratisser les 3 millions de numéros de presse numérisés par <a class="entity-mention" href="https://twitter.com/GallicaBnF">@GallicaBnF</a>. Regardez, c’est la naissance du <a class="entity-hashtag" href="/hashtag/PereNoel">#PereNoel</a> (années 20) ! <br>                                                                                     <a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">shiny.ens-paris-saclay.fr/app/gallicagram</a></p><figure style="display:flex"><a class="media-link" href="https://pbs.twimg.com/media/FHUEYUXXsAs-oxa.jpg">                             <img class="media" loading="lazy" src="https://pbs.twimg.com/media/FHUEYUXXsAs-oxa.jpg" alt="" />                     </a></figure><p>Deux points sortent de la tendance : les pics de 1858 et 1941. Heureusement, les archives sont ouvertes. En cliquant sur un point du graphe, on retrouve tous ces documents dans Gallica.</p><p>En 1858, le Journal de Toulouse publie un feuilleton sur “La vocation d’Urbain Lefort” dont le héros est un certain Père Noël sans aucun rapport avec le pourvoyeur de cadeaux à barbe blanche.</p><p>En 1941, c’est la sortie du film de Christian-Jaque, “L’assassinat du Père Noël”, qui fait sursauter la courbe alors que les temps ne sont pas à la fête (creux de 1940 à 1944).</p><p>Plus d'informations -&gt; <a href="https://odhn.ens.psl.eu/newsroom/gallicagram-un-outil-de-lexicometrie-pour-la-recherche">odhn.ens.psl.eu/newsroom/galli…</a> <br>                                                                                     <a class="entity-hashtag" href="/hashtag/Gallica">#Gallica</a> <a class="entity-hashtag" href="/hashtag/BnF">#BnF</a> <a class="entity-hashtag" href="/hashtag/lexicographie">#lexicographie</a> <a class="entity-hashtag" href="/hashtag/histoire">#histoire</a> <a class="entity-hashtag" href="/hashtag/littérature">#littérature</a> <a class="entity-hashtag" href="/hashtag/linguistique">#linguistique</a></p>
+
+
+
 
 
 <script>
