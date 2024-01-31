@@ -49,6 +49,7 @@
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
     <!--
     <ul>
+      <li><a href="#prix">Prix</a></li>
       <li><a href="#recension">Recension</a></li>
       <li><a href="#presse">Presse</a></li>
       <li><a href="#internet">Internet</a></li>
@@ -162,7 +163,11 @@
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-
+  
+  <h3 id="prix">Prix</h3>
+  <ul>
+  <li><a href="https://www.lepoint.fr/culture/nimes-le-festival-de-la-biographie-couronne-la-marquise-de-sevigne-24-01-2024-2550607_3.php">Finaliste du prix de la biographie du Point</a></li>
+  </ul>
   <h3 id="recension">Recension</h3>
   <ul>
   <li><a href="https://www.cairn.info/revue-critique-2023-5-page-458.htm">« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472</a></li>
@@ -185,6 +190,8 @@
   <li><a href="https://www.causeur.fr/abel-bonnard-eternel-gestapette-258872">« Abel Bonnard, éternel Gestapette », Julien San Frax, Causeur, avril 2023, p. 72-73</a></li>
   <li><a href="https://www.la-croix.com/Culture/LExil-collabos-Yves-Pourcher-voyage-bout-lopprobre-2023-04-14-1201263380">« L&#39;Exil des collabos de Yves Pourcher : un voyage au bout de l&#39;opprobre », Jean-Pierre Rioux, La Croix, 14 avril 2023</a></li>
   <li><a href="https://www.revuedesdeuxmondes.fr/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay/">« Abel Bonnard, Plume de la Collaboration », Olivier Cariguel, Revue des Deux Mondes, mai-juin 2023, p. 181</a></li>
+    <li><a href="https://www.vanityfair.fr/galerie/le-palmares-2023-des-30-nouvelles-tetes">« Palmarès 2023 - 30 nouvelles têtes », Vanity Fair, décembre 2023, p. 102</a></li>
+    <li><a href="https://www.lepoint.fr/culture/nimes-le-festival-de-la-biographie-couronne-la-marquise-de-sevigne-24-01-2024-2550607_3.php">« L'idéologue de la Collaboration », Didier Le Fur, Le Point, 25 janvier 2024, p. 96</a></li>
   </ul>
   <h3 id="internet">Internet</h3>
   <ul>
