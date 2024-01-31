@@ -167,6 +167,7 @@
   <h3 id="prix">Prix</h3>
   <ul>
   <li><a href="https://www.lepoint.fr/culture/nimes-le-festival-de-la-biographie-couronne-la-marquise-de-sevigne-24-01-2024-2550607_3.php">Finaliste du prix de la biographie du Point</a></li>
+  <li><a href="https://www.vanityfair.fr/galerie/le-palmares-2023-des-30-nouvelles-tetes">30 under 30 - Vanity Fair 2023</a></li>
   </ul>
   <h3 id="recension">Recension</h3>
   <ul>
