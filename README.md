@@ -114,6 +114,7 @@
 
 <ul>
     <li><a href="https://proustonomics.com/entretien-avec-benjamin-azoulay/">« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023</a></li>
+    <li><a href="https://zone-critique.com/critiques/abel-bonnard-benjamin-azoulay/">Benjamin Azoulay : « Il y a toujours une part de poésie chez Abel Bonnard », Guillaume Narguet, Zone Critique, 27 janvier 2024</a></li>
 </ul>
 
 
