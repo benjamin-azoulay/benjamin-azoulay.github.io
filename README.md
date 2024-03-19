@@ -173,6 +173,7 @@
   <h3 id="recension">Recension</h3>
   <ul>
   <li><a href="https://www.cairn.info/revue-critique-2023-5-page-458.htm">« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472</a></li>
+    <li><a href="https://doi.org/10.1093/fs/knad239">« Abel Bonnard: plume de la Collaboration. Par Benjamin Azoulay », Edward Ousselin, French Studies, Oxford Academic, 9 décembre 2023</a></li>
   </ul>
   <h3 id="presse">Presse</h3>
   <ul>
@@ -204,6 +205,7 @@
   <li><a href="http://www.hebdoscope.fr/wp/blog/encre-noire/">« Encre noire », Laurent Pfaadt, Hebdoscope, 22 février 2023</a></li>
   <li><a href="https://www.gregoiredetours.fr/xxe-siecle/seconde-guerre-mondiale/benjamin-azoulay-abel-bonnard-plume-de-la-collaboration/">« Abel Bonnard, plume de la collaboration - Benjamin Azoulay », Adam Craponne, Grégoire de Tours, 4 février 2023</a></li>
   <li><a href="https://www.pariscilaculture.fr/2023/04/abel-bonnard-itineraire-dun-fasciste/">« Abel Bonnard, itinéraire d’un fasciste »,  Sylvain Bonnet, Paris-ci la culture, 4 avril 2023</a></li>
+    <li><a href="https://doi.org/10.58079/u7m1">« Bonnard sous l'aile de Régnier », F. Javourez, Société des lecteurs d'Henri de Régnier, 22 janvier 2023</a></li>
   </ul>
   <h3 id="radio">Radio</h3>
   <ul>
