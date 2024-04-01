@@ -169,7 +169,6 @@
     <li><strong>Environnements de Développement : </strong>Notebooks Google Colab/Jupyter</li>
     <li><strong>Systèmes d'Exploitation : </strong>Maîtrise des commandes Linux/Windows</li>
 </ul>
-<p>&nbsp;</p>
 <h3>Science des données</h3>
 <ul>
     <li><strong>Visualisation de données :</strong> Cartographies interactives (Leaflet), graphiques interactifs (Plotly), graphes en réseaux, tables interactives (DataTables)</li>
@@ -181,7 +180,6 @@
     <li><strong>Préparation des Données :</strong> Analyse, nettoyage, filtrage de données</li>
     <li><strong>Rédaction de rapports et d'articles de recherche :</strong> R Markdown / LaTeX</li>
 </ul>
-<p>&nbsp;</p>
 <h3>Machine Learning et Intelligence Artificielle</h3>
 <ul type="disc">
     <li><strong>Machine Learning : </strong>For&ecirc;ts aléatoires, régressions linéaires, XGBOOST, réseaux de neurones</li>
@@ -190,13 +188,11 @@
     <li><strong>Entrainement de LLM / HuggingFace : </strong>Contribution majeure au projet de LLM open source et open data Common Corpus&nbsp;(PleIAs) avec la mise en ligne des corpus francophones Gallicagram (livres et journaux) soient plus de 85 milliards de mots</li>
     <li><strong>Génération d'Images :</strong> Fine tuning de modèles de diffusion (LoRA - Stable Diffusion XL), manipulation de tensors</li>
 </ul>
-<p>&nbsp;</p>
 <h3>Gestion de Données</h3>
 <ul type="disc">
     <li><strong>Bases de Données : </strong>Construction et interrogation de bases SQL</li>
     <li><strong>Transfert de Fichiers :</strong> FTP scp/rsync et ssh</li>
 </ul>
-<p>&nbsp;</p>
 
 <div align="center">
   <hr class="rounded" width="33%">
