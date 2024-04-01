@@ -19,7 +19,6 @@
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
 
   <p>
-    <strong>Administrateur des affaires maritimes</strong><br>
     <strong>Historien</strong><br>
     <strong>Data scientist</strong><br>
     <br>
@@ -46,6 +45,7 @@
     <li><a href="#articles-de-recherche">Articles de recherche</a></li>
     <li><a href="#articles-en-ligne">Articles en ligne</a></li>
     <li><a href="#projets-en-cours">Projets en cours</a></li>
+    <li><a href="#competences_info">Compétences informatiques</a></li>
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
     <!--
     <ul>
@@ -154,6 +154,50 @@
   </figure>
 </div>
 
+
+<div align="center">
+  <hr class="rounded" width="33%">
+</div>
+
+<h2 id="competences_info">Compétences informatiques</h2>
+<h3>Développement et Programmation</h3>
+<ul type="disc">
+    <li><strong>Langages de Programmation : </strong>R, Python</li>
+    <li><strong>Développement Web : </strong>Conception d'applications web interactives Shiny-R / déploiement sur serveurs locaux (ShinyProxy) ou commerciaux (shinyapps.io)</li>
+    <li><strong>Conteneurisation : </strong>Paramétrage, déploiement et utilisation de Docker</li>
+    <li><strong>Programmation Collaborative : </strong>GitHub</li>
+    <li><strong>Environnements de Développement : </strong>Notebooks Google Colab/Jupyter</li>
+    <li><strong>Systèmes d'Exploitation : </strong>Maîtrise des commandes Linux/Windows</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Science des données</h3>
+<ul>
+    <li><strong>Visualisation de données :</strong> Cartographies interactives (Leaflet), graphiques interactifs (Plotly), graphes en réseaux, tables interactives (DataTables)</li>
+    <li><strong>Web Scraping :</strong> HTML et JavaScript avec Selenium</li>
+</ul>
+<ul type="disc">
+    <li><strong>Analyse Statistique :</strong> Matrices de corrélation, réduction de la dimensionnalité, traitements statistiques, analyse des séries temporelles</li>
+    <li><strong>Analyse Spatiale :</strong> Techniques spécifiques pour l'analyse de données spatiales</li>
+    <li><strong>Préparation des Données :</strong> Analyse, nettoyage, filtrage de données</li>
+    <li><strong>Rédaction de rapports et d'articles de recherche :</strong> R Markdown / LaTeX</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Machine Learning et Intelligence Artificielle</h3>
+<ul type="disc">
+    <li><strong>Machine Learning : </strong>For&ecirc;ts aléatoires, régressions linéaires, XGBOOST, réseaux de neurones</li>
+    <li><strong>Traitement Automatique du Langage Naturel (TALN/NLP) : </strong>Lexicométrie, topic modelling, étiquetage, lemmatisation, tokenisation</li>
+    <li><strong>Modèles de Langage (LLM) :</strong> Pipelines RAG locaux, embeddings, intégration des API, LLM locaux, fine tuning</li>
+    <li><strong>Entrainement de LLM / HuggingFace : </strong>Contribution majeure au projet de LLM open source et open data Common Corpus&nbsp;(PleIAs) avec la mise en ligne des corpus francophones Gallicagram (livres et journaux) soient plus de 85 milliards de mots</li>
+    <li><strong>Génération d'Images :</strong> Fine tuning de modèles de diffusion (LoRA - Stable Diffusion XL), manipulation de tensors</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Gestion de Données</h3>
+<ul type="disc">
+    <li><strong>Bases de Données : </strong>Construction et interrogation de bases SQL</li>
+    <li><strong>Transfert de Fichiers :</strong> FTP scp/rsync et ssh</li>
+</ul>
+<p>&nbsp;</p>
+
 <div align="center">
   <hr class="rounded" width="33%">
 </div>
@@ -216,7 +260,7 @@
   <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzVjN2Y4ZTk3MGFkMmQ5ZWY3YTg4NTVkNw/episode/MDI1ZWU2MmJkNmM0NGE5ZmE2MDk0OGMwNTYzYjY4YzlmYjVjMGViNw?sa=X&amp;ved=0CAIQuIEEahcKEwiIydqCmOeAAxUAAAAAHQAAAAAQLA&amp;hl=fr">« Franck Ferrand raconte - Abel Bonnard », Franck Ferrand, Radio Classique, 16 février 2023</a></li>
   <li><a href="https://www.revueconflits.com/podcast-abel-bonnard-roi-des-lettres-et-de-la-collaboration-benjamin-azoulay/">« Abel Bonnard, roi des lettres et de la collaboration », Jean-Baptiste Noé, Revue Conflits, 22 août 2023</a></li>
   </ul>
-  <h3 id="invitations">Invitations</h3>
+  <h3 id="interventions">Interventions</h3>
   <ul>
   <li><a href="https://www.calameo.com/read/0069518270c4f77d9e0d0">Festival de la Biographie de Nîmes, 27-29 janvier 2023</a></li>
   </ul>
