@@ -162,36 +162,36 @@
 <h2 id="competences_info">Compétences informatiques</h2>
 <h3>Développement et Programmation</h3>
 <ul type="disc">
-    <li><strong>Langages de Programmation : </strong>R, Python</li>
-    <li><strong>Développement Web : </strong>Conception d'applications web interactives Shiny-R / déploiement sur serveurs locaux (ShinyProxy) ou commerciaux (shinyapps.io)</li>
+    <li><strong>Langages : </strong>R, Python</li>
+    <li><strong>Développement web : </strong>Conception d'applications web interactives Shiny-R / déploiement sur serveurs locaux (ShinyProxy) ou commerciaux (shinyapps.io)</li>
     <li><strong>Conteneurisation : </strong>Paramétrage, déploiement et utilisation de Docker</li>
-    <li><strong>Programmation Collaborative : </strong>GitHub</li>
-    <li><strong>Environnements de Développement : </strong>Notebooks Google Colab/Jupyter</li>
-    <li><strong>Systèmes d'Exploitation : </strong>Maîtrise des commandes Linux/Windows</li>
+    <li><strong>Programmation collaborative : </strong>GitHub</li>
+    <li><strong>Environnements de développement : </strong>Notebooks Google Colab/Jupyter</li>
+    <li><strong>Systèmes d'exploitation : </strong>Maîtrise des commandes Linux/Windows</li>
 </ul>
 <h3>Science des données</h3>
 <ul>
     <li><strong>Visualisation de données :</strong> Cartographies interactives (Leaflet), graphiques interactifs (Plotly), graphes en réseaux, tables interactives (DataTables)</li>
-    <li><strong>Web Scraping :</strong> HTML et JavaScript avec Selenium</li>
+    <li><strong>Web scraping :</strong> HTML et JavaScript avec Selenium</li>
 </ul>
 <ul type="disc">
-    <li><strong>Analyse Statistique :</strong> Matrices de corrélation, réduction de la dimensionnalité, traitements statistiques, analyse des séries temporelles</li>
-    <li><strong>Analyse Spatiale :</strong> Techniques spécifiques pour l'analyse de données spatiales</li>
-    <li><strong>Préparation des Données :</strong> Analyse, nettoyage, filtrage de données</li>
+    <li><strong>Analyse statistique :</strong> Matrices de corrélation, réduction de la dimensionnalité, traitements statistiques, analyse des séries temporelles</li>
+    <li><strong>Analyse spatiale :</strong> Techniques spécifiques pour l'analyse de données spatiales</li>
+    <li><strong>Préparation des données :</strong> Analyse, nettoyage, filtrage de données</li>
     <li><strong>Rédaction de rapports et d'articles de recherche :</strong> R Markdown / LaTeX</li>
 </ul>
 <h3>Machine Learning et Intelligence Artificielle</h3>
 <ul type="disc">
     <li><strong>Machine Learning : </strong>For&ecirc;ts aléatoires, régressions linéaires, XGBOOST, réseaux de neurones</li>
     <li><strong>Traitement Automatique du Langage Naturel (TALN/NLP) : </strong>Lexicométrie, topic modelling, étiquetage, lemmatisation, tokenisation</li>
-    <li><strong>Modèles de Langage (LLM) :</strong> Pipelines RAG locaux, embeddings, intégration des API, LLM locaux, fine tuning</li>
+    <li><strong>Modèles de langage (LLM) :</strong> Pipelines RAG locaux, embeddings, intégration des API, LLM locaux, fine tuning</li>
     <li><strong>Entrainement de LLM / HuggingFace : </strong>Contribution majeure au projet de LLM open source et open data Common Corpus&nbsp;(PleIAs) avec la mise en ligne des corpus francophones Gallicagram (livres et journaux) soient plus de 85 milliards de mots</li>
-    <li><strong>Génération d'Images :</strong> Fine tuning de modèles de diffusion (LoRA - Stable Diffusion XL), manipulation de tensors</li>
+    <li><strong>Génération d'images :</strong> Fine tuning de modèles de diffusion (LoRA - Stable Diffusion XL), manipulation de tensors</li>
 </ul>
 <h3>Gestion de Données</h3>
 <ul type="disc">
-    <li><strong>Bases de Données : </strong>Construction et interrogation de bases SQL</li>
-    <li><strong>Transfert de Fichiers :</strong> FTP scp/rsync et ssh</li>
+    <li><strong>Bases de données : </strong>Construction et interrogation de bases SQL</li>
+    <li><strong>Transfert de fichiers :</strong> FTP scp/rsync et ssh</li>
 </ul>
 
 <div align="center">
