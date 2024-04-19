@@ -139,10 +139,6 @@
   
   <div style="display: flex; flex-direction: column; justify-content: flex-end;">
     <figure>
-  <img src="!https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/a1313a1c-0668-4526-8fe7-2e387c17d29b" align="right" width="400" style="margin-left: 10px;" />
-    <figcaption style="text-align: center;">BabelGallery</figcaption>
-  </figure>
-    <figure>
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/fe5c5a7e-1d61-41dd-8562-1de05973639f" align="right" width="400" style="margin-left: 10px;" />
     <figcaption style="text-align: center;">Criminoscope</figcaption>
   </figure>
