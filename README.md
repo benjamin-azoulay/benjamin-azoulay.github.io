@@ -135,6 +135,14 @@
     <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a>, un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
     </ul>
   </div>
+
+<div style="display: flex; flex-direction: column; justify-content: flex-end;">
+    <figure>
+  <img src="!https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/a1313a1c-0668-4526-8fe7-2e387c17d29b" align="right" width="400" style="margin-left: 10px;" />
+    <figcaption style="text-align: center;">Criminoscope</figcaption>
+  </figure>
+  </div>
+</div>
   
   <div style="display: flex; flex-direction: column; justify-content: flex-end;">
     <figure>
@@ -143,6 +151,7 @@
   </figure>
   </div>
 </div>
+
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="margin-right: 10px;">
