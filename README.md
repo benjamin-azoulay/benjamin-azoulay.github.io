@@ -43,7 +43,7 @@
   <ul>
     <li><a href="#ouvrage-publi-">Ouvrage publié</a></li>
     <li><a href="#articles-de-recherche">Articles de recherche</a></li>
-    <li><a href="#articles-en-ligne">Articles en ligne</a></li>
+    <li><a href="#articles-en-ligne">Entretiens</a></li>
     <li><a href="#projets-en-cours">Projets en cours</a></li>
     <li><a href="#competences_info">Compétences informatiques</a></li>
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
@@ -110,7 +110,7 @@
 </div>
 
 
-<h2 id="articles-en-ligne">Articles en ligne</h2>
+<h2 id="articles-en-ligne">Entretiens</h2>
 
 <ul>
     <li><a href="https://proustonomics.com/entretien-avec-benjamin-azoulay/">« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023</a></li>
