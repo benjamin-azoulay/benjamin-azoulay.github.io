@@ -7,6 +7,6 @@
 <body>
     <h1>CriminoScope</h1>
     <!-- Insérer le PDF avec l'attribut src -->
-    <embed src="CriminoScope-web.pdf" width="100%" height="900px" />
+    <embed src="CriminoScope-web.pdf" width="100%" height="600px" />
 </body>
 </html>
