@@ -126,11 +126,9 @@
 <div style="display: flex; align-items: flex-end; justify-content: space-between;">
   <div style="flex: 1;">
     <ul>
-    <li>CriminoScope : un logiciel d&#39;analyse socio-géographique des crimes et délits</li>
+    <li><a href="CriminoScope.md">CriminoScope</a> : un logiciel d&#39;analyse socio-géographique des crimes et délits</li>
     <li><a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a></li>
-    <li>Seastats+ : un projet d&#39;accidentologie prédictive en mer</li>
-    <li><a href="https://github.com/benjyazoulay/index-timeline">La représentation graphique des index pour les ouvrages historiques</a></li>
-    <li>Proustographies : à la recherche de Marcel Proust, un portrait numérique</li>
+    <li><a href="Seastats.md">Seastats+</a> : un projet d&#39;accidentologie prédictive en mer</li>
     <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a> : un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
     </ul>
   </div>
