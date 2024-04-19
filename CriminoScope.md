@@ -6,6 +6,6 @@
 </head>
 <body>
     <!-- Insérer le PDF avec l'attribut src -->
-    <embed src="CriminoScope-web.pdf" width="100%" height="100%" />
+    <embed src="CriminoScope-web.pdf" width="100%" height="900px" />
 </body>
 </html>
