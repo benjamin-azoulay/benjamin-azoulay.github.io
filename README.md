@@ -42,8 +42,7 @@
 <div id="table">
   <ul>
     <li><a href="#ouvrage-publi-">Ouvrage publié</a></li>
-    <li><a href="#articles-de-recherche">Articles de recherche</a></li>
-    <li><a href="#articles-en-ligne">Entretiens</a></li>
+    <li><a href="#articles-de-recherche">Articles de recherche</a></li>    
     <li><a href="#projets-en-cours">Projets en cours</a></li>
     <li><a href="#competences_info">Compétences informatiques</a></li>
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
@@ -51,6 +50,7 @@
     <ul>
       <li><a href="#prix">Prix</a></li>
       <li><a href="#recension">Recension</a></li>
+      <li><a href="#articles-en-ligne">Entretiens</a></li>
       <li><a href="#presse">Presse</a></li>
       <li><a href="#internet">Internet</a></li>
       <li><a href="#radio">Radio</a></li>
@@ -110,12 +110,7 @@
 </div>
 
 
-<h2 id="articles-en-ligne">Entretiens</h2>
 
-<ul>
-    <li><a href="https://proustonomics.com/entretien-avec-benjamin-azoulay/">« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023</a></li>
-    <li><a href="https://zone-critique.com/critiques/abel-bonnard-benjamin-azoulay/">Benjamin Azoulay : « Il y a toujours une part de poésie chez Abel Bonnard », Guillaume Narguet, Zone Critique, 27 janvier 2024</a></li>
-</ul>
 
 
 <div align="center">
@@ -222,6 +217,12 @@
   <li><a href="https://www.cairn.info/revue-critique-2023-5-page-458.htm">« Abel Bonnard, un académicien en habit vert-de-gris », Pierre Birnbaum, Critique, Editions de Minuit, mai 2023, n° 912, p. 458-472</a></li>
     <li><a href="https://doi.org/10.1093/fs/knad239">« Abel Bonnard: plume de la Collaboration. Par Benjamin Azoulay », Edward Ousselin, French Studies, Oxford Academic, 9 décembre 2023</a></li>
   </ul>
+  <h3 id="articles-en-ligne">Entretiens</h3>
+
+<ul>
+    <li><a href="https://proustonomics.com/entretien-avec-benjamin-azoulay/">« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023</a></li>
+    <li><a href="https://zone-critique.com/critiques/abel-bonnard-benjamin-azoulay/">Benjamin Azoulay : « Il y a toujours une part de poésie chez Abel Bonnard », Guillaume Narguet, Zone Critique, 27 janvier 2024</a></li>
+</ul>
   <h3 id="presse">Presse</h3>
   <ul>
   <li><a href="https://www.historia.fr/biographies-historiques/lhistoire-dun-%C2%AB-bon-%C3%A0-rien-%C2%BB">« L’histoire d’un “bon à rien” », Denis Lefebvre, Historia, janvier 2023, p. 83</a></li>
