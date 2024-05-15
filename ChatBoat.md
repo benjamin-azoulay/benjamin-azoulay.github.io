@@ -11,7 +11,7 @@
     <p>Il a été paramétré pour répondre à des questions de droit et de sécurité maritime au profit des opérateurs du CROSS Jobourg. </p>
     <p>Une version plus puissante fondée sur le modèle text-embedding-ada-002 d'OpenAI a aussi été déployée. Le déploiement a été effectué en docker.</p>
     <p>L'aperçu présenté ci-dessous n'est pas interactif.</p>
-    <iframe src="streamlit_app_bis · Streamlit.html" width="100%" height="600px" frameborder="0"></iframe>
+    <iframe src="streamlit_app_bis · Streamlit.html" width="100%" height="1000px" frameborder="0"></iframe>
 </body>
 </html>
 
