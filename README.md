@@ -22,8 +22,8 @@
   <img src="https://github.com/benjamin-azoulay/benjamin-azoulay.github.io/assets/25954316/016d5a3c-d6bb-4d9c-860c-865ee1496a73" width="200" style="float: left; margin-right: 10px;" />
 
   <p>
-    <strong>Historien</strong><br>
     <strong>Data scientist</strong><br>
+    <strong>Historien</strong><br>
     <br>
     Historien nouvelle génération, j’ai écrit une
     <a href="https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html">
