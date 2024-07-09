@@ -130,7 +130,7 @@
     <li><a href="CriminoScope.html">CriminoScope</a>, logiciel d&#39;analyse socio-géographique des crimes et délits – Préfecture du Var</li>
     <li><a href="Seastats.html">Seastats+</a>,logiciel d&#39;analyse des données d&#39;accidentologie en mer – Secrétariat d&#39;Etat à la Mer</li>
     <li><a href="ChatBoat.html">ChatBoat</a>, logiciel d&#39;aide à la décision spécialisé en droit maritime – CROSS Jobourg</li>
-    <li><a href="pole_emploi.html">Pôle Emploi Public</a>, moteur de recherche alternatif à la Place de l'emploi public</li>
+    <li><a href="https://pole-emploi-public.streamlit.app/">Pôle Emploi Public</a>, moteur de recherche alternatif à la Place de l'emploi public</li>
     <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a>, un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
     </ul>
   </div>
