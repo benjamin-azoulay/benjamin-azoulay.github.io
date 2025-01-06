@@ -125,12 +125,12 @@
   <div style="flex: 1;">
     <ul>
     <li><a href="https://shiny.ens-paris-saclay.fr/app/gallicagram">Gallicagram</a>, logiciel de lexicométrie pour la recherche – BnF / ENS Paris-Saclay / ENS Ulm</li>
-    <li><a href="https://babelgallery.com">BabelGallery</a>, laboratoire d&#39;art numérique qui explore la place de l&#39;artiste, du critique et du spectateur à l&#39;ère de l&#39;intelligence artificielle</li>
+    <li><a href="https://babelgallery.com/playground">BabelGallery</a>, laboratoire d&#39;art numérique qui explore la place de l&#39;artiste, du critique et du spectateur à l&#39;ère de l&#39;intelligence artificielle</li>
      <li><a href="https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613">CommonCorpus</a>, le plus grand corpus libre de droits pour l’entraînement de LLM – PleIAs</li>
     <li><a href="CriminoScope.html">CriminoScope</a>, logiciel d&#39;analyse socio-géographique des crimes et délits – Préfecture du Var</li>
     <li><a href="Seastats.html">Seastats+</a>,logiciel d&#39;analyse des données d&#39;accidentologie en mer – Secrétariat d&#39;Etat à la Mer</li>
     <li><a href="ChatBoat.html">ChatBoat</a>, logiciel d&#39;aide à la décision spécialisé en droit maritime – CROSS Jobourg</li>
-    <li><a href="https://pole-emploi-public.streamlit.app/">Pôle Emploi Public</a>, moteur de recherche alternatif à la Place de l'emploi public</li>
+    <li><a href="https://shiny.ens-paris-saclay.fr/app/pole_emploi_public">Pôle Emploi Public</a>, moteur de recherche alternatif à la Place de l'emploi public</li>
     <li><a href="https://github.com/regicid/docker_gallicanet">Gallicanet</a>, un réseau social du passé fondé sur l&#39;analyse automatique de la proximité d&#39;énonciation des entités nommées dans les corpus d&#39;archives numérisées</li>
     </ul>
   </div>
