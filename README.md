@@ -47,7 +47,6 @@
     <li><a href="#ouvrage-publi-">Ouvrage publié</a></li>
     <li><a href="#articles-de-recherche">Articles de recherche</a></li>    
     <li><a href="#projets-en-cours">Projets en cours</a></li>
-    <li><a href="#competences_info">Compétences informatiques</a></li>
     <li><a href="#a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre Abel Bonnard, Plume de la Collaboration</a></li>
     <!--
     <ul>
@@ -165,44 +164,7 @@
   <hr class="rounded" width="33%">
 </div>
 
-<h2 id="competences_info">Compétences informatiques</h2>
-<h3>Développement et Programmation</h3>
-<ul type="disc">
-    <li><strong>Langages : </strong>R, Python</li>
-    <li><strong>Développement web : </strong>Conception d'applications web interactives Shiny-R / déploiement sur serveurs locaux (ShinyProxy) ou commerciaux (shinyapps.io)</li>
-    <li><strong>Conteneurisation : </strong>Paramétrage, déploiement et utilisation de Docker</li>
-    <li><strong>Programmation collaborative : </strong>GitHub</li>
-    <li><strong>Environnements de développement : </strong>Notebooks Google Colab/Jupyter</li>
-    <li><strong>Systèmes d'exploitation : </strong>Maîtrise des commandes Linux/Windows</li>
-</ul>
-<h3>Science des données</h3>
-<ul>
-    <li><strong>Visualisation de données :</strong> Cartographies interactives (Leaflet), graphiques interactifs (Plotly), graphes en réseaux, tables interactives (DataTables)</li>
-    <li><strong>Web scraping :</strong> HTML et JavaScript avec Selenium</li>
-</ul>
-<ul type="disc">
-    <li><strong>Analyse statistique :</strong> Matrices de corrélation, réduction de la dimensionnalité, traitements statistiques, analyse des séries temporelles</li>
-    <li><strong>Analyse spatiale :</strong> Techniques spécifiques pour l'analyse de données spatiales</li>
-    <li><strong>Préparation des données :</strong> Analyse, nettoyage, filtrage de données</li>
-    <li><strong>Rédaction de rapports et d'articles de recherche :</strong> R Markdown / LaTeX</li>
-</ul>
-<h3>Machine Learning et Intelligence Artificielle</h3>
-<ul type="disc">
-    <li><strong>Machine Learning : </strong>For&ecirc;ts aléatoires, régressions linéaires, XGBOOST, réseaux de neurones</li>
-    <li><strong>Traitement Automatique du Langage Naturel (TALN/NLP) : </strong>Lexicométrie, topic modelling, étiquetage, lemmatisation, tokenisation</li>
-    <li><strong>Modèles de langage (LLM) :</strong> Pipelines RAG locaux, embeddings, intégration des API, LLM locaux, fine tuning</li>
-    <li><strong>Entrainement de LLM / HuggingFace : </strong>Contribution majeure au projet de LLM open source et open data Common Corpus&nbsp;(PleIAs) avec la mise en ligne des corpus francophones Gallicagram (livres et journaux) soient plus de 85 milliards de mots</li>
-    <li><strong>Génération d'images :</strong> Fine tuning de modèles de diffusion (LoRA - Stable Diffusion XL), manipulation de tensors</li>
-</ul>
-<h3>Gestion de Données</h3>
-<ul type="disc">
-    <li><strong>Bases de données : </strong>Construction et interrogation de bases SQL</li>
-    <li><strong>Transfert de fichiers :</strong> FTP scp/rsync et ssh</li>
-</ul>
 
-<div align="center">
-  <hr class="rounded" width="33%">
-</div>
 
 <h2 id="a-propos-du-livre-abel-bonnard-plume-de-la-collaboration-">A propos du livre <em>Abel Bonnard, Plume de la Collaboration</em></h2>
 
@@ -396,9 +358,6 @@
 <li><a href="https://scholar.google.com/citations?user=3Xgf8SkAAAAJ">Google Scholar</a></li>
 <li><a href="https://www.linkedin.com/in/benjamin-azoulay/">LinkedIn</a></li>
 </ul>
-
-<h2 id="CV">Curriculum vitæ</h2>
-<embed src="CV_sans_adresse.pdf" type="application/pdf" width="100%" height="1240">
 
 <div align="center">
   <hr class="rounded" width="33%">
