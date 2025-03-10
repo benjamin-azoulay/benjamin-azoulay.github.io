@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau de bord - Liens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .circle-container {
+            width: 600px; /* Augmenté pour plus d'espace */
+            height: 600px; /* Augmenté pour plus d'espace */
+            border-radius: 50%;
+            position: relative;
+            /* Plus besoin de flexbox ici, car les éléments sont positionnés de manière absolue */
+        }
+
+        .circle-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            margin: 10px; /* Une marge générale peut aider, à ajuster selon le besoin */
+            border-radius: 30px;
+            font-size: 1.1em;
+            cursor: pointer;
+            text-decoration: none;
+            /* Plus besoin de flexbox, juste le texte centré suffit */
+            text-align: center;  /* Centre le texte horizontalement */
+            transition: background-color 0.3s;
+            position: absolute;
+            white-space: nowrap; /* Empêche le texte de passer à la ligne */
+        }
+
+        .circle-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Positionnement circulaire des boutons (méthode angulaire) */
+        .circle-container a {
+            /* Paramètres pour le positionnement */
+             --angle: 0deg;        /* Angle initial */
+             --radius: 250px; /* Rayon du cercle, à ajuster */
+             --offset-x: 50%;     /* Centre du cercle en X */
+             --offset-y: 50%;     /* Centre du cercle en Y */
+
+            /* Calcul des positions */
+            left: calc(var(--offset-x) + var(--radius) * cos(var(--angle)));
+            top: calc(var(--offset-y) + var(--radius) * sin(var(--angle)));
+
+            /* Centrer le bouton à sa position calculée */
+            transform: translate(-50%, -50%);
+        }
+
+        /* Définition des angles pour chaque bouton */
+        .circle-container a:nth-child(1)  { --angle:  0deg;   }
+        .circle-container a:nth-child(2)  { --angle:  24deg;  }
+        .circle-container a:nth-child(3)  { --angle:  48deg;  }
+        .circle-container a:nth-child(4)  { --angle:  72deg;  }
+        .circle-container a:nth-child(5)  { --angle:  96deg;  }
+        .circle-container a:nth-child(6)  { --angle:  120deg; }
+        .circle-container a:nth-child(7)  { --angle:  144deg; }
+        .circle-container a:nth-child(8)  { --angle:  168deg; }
+        .circle-container a:nth-child(9)  { --angle:  192deg; }
+        .circle-container a:nth-child(10) { --angle:  216deg; }
+        .circle-container a:nth-child(11) { --angle:  240deg; }
+        .circle-container a:nth-child(12) { --angle:  264deg; }
+        .circle-container a:nth-child(13) { --angle:  288deg; }
+        .circle-container a:nth-child(14) { --angle:  312deg; }
+        .circle-container a:nth-child(15) { --angle:  336deg; }
+
+
+
+        @media (max-width: 768px) {
+            .circle-container {
+                width: 90vw;  /* Utilise 90% de la largeur de la vue */
+                height: 90vw; /* Garde le cercle proportionnel */
+                max-width: 400px; /* Limite la taille maximale */
+                max-height: 400px;
+            }
+
+            .circle-button {
+                padding: 10px 20px;
+                font-size: 1em;
+            }
+             .circle-container a {
+                --radius: 40vw; /* Rayon relatif à la largeur de la vue */
+                max-width: 180px;
+            }
+
+
+        }
+        @media (max-width: 480px){
+            .circle-button{
+                padding: 8px 16px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="circle-container">
+        <a href="https://navpro.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">NAVPRO</a>
+        <a href="http://adm.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">ADM</a>
+        <a href="https://authentification.din.developpement-durable.gouv.fr/authSAML/login/LoginDispatchAction.do?backURL=https%3A%2F%2Fitem.din.developpement-durable.gouv.fr%2Fitem%2FiAuthentification&v=4.2.2&appId=434" target="_blank" rel="noopener" class="circle-button">ITEM</a>
+        <a href="https://amfore.din.developpement-durable.gouv.fr/amfore/" target="_blank" rel="noopener" class="circle-button">AMFORE</a>
+        <a href="https://promete.din.developpement-durable.gouv.fr/promete/" target="_blank" rel="noopener" class="circle-button">PROMETE</a>
+        <a href="https://authentification.din.developpement-durable.gouv.fr/authSAML/login/LoginDispatchAction.do?backURL=https%3A%2F%2Foedipp.din.developpement-durable.gouv.fr%2Foedipp%2FiAuthentification&v=4.4.0&appId=416" target="_blank" rel="noopener" class="circle-button">OEDIPP</a>
+        <a href="https://authentification.din.developpement-durable.gouv.fr/authSAML/login/LoginDispatchAction.do?backURL=https%3A%2F%2Fatena.din.developpement-durable.gouv.fr%2Fatena%2Faccueil_afficher.action&v=4.4.0&appId=652" target="_blank" rel="noopener" class="circle-button">ATENA</a>
+        <a href="https://puma.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">PUMA</a>
+        <a href="https://portail-armateur-gestionnaire.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">PDA</a>
+        <a href="https://venus.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">VENUS</a>
+        <a href="https://poseidon.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">POSEIDON</a>
+        <a href="https://simba.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">SIMBA</a>
+        <a href="https://gina.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">GINA</a>
+        <a href="https://pmr.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">PMR GESTION</a>
+        <a href="https://trafic2000.din.developpement-durable.gouv.fr/" target="_blank" rel="noopener" class="circle-button">TRAFIC 2000</a>
+    </div>
+
+</body>
+</html>
